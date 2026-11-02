@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "Chronometry",
+  "subtitle": "Skill · Optional custom skill · NOT added to the Core examples",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Design purpose",
+      "value": "For a campaign where temporal engineering deserves its own spotlight, split that specialty from Lore. Agree the revised skill list and rebalance/rebuild allocations together; do not add free ratings on top of existing skills."
+    },
+    {
+      "label": "Overcome",
+      "value": "Calibrate a collection engine, diagnose a temporal seal, or stabilize an out-of-phase instrument when failure matters."
+    },
+    {
+      "label": "Create an advantage",
+      "value": "Identify a skipped cycle, establish a safe timing window or expose a falsified timestamp through temporal analysis."
+    },
+    {
+      "label": "Attack / defend",
+      "value": "No normal attacks. Defend against attempts to sabotage a timing process you are actively controlling, not against bullets or every form of magic."
+    },
+    {
+      "label": "Boundary",
+      "value": "Investigate still examines mundane evidence, Crafts repairs ordinary machinery, and Lore covers other knowledge. If the specialty rarely matters, keep it in Lore and differentiate experts with aspects/stunts instead."
+    }
+  ]
+}

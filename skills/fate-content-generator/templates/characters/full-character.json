@@ -1,0 +1,46 @@
+{
+  "template": {
+    "id": "full-character",
+    "label": "Full Character / PC",
+    "ruleset": "condensed",
+    "native_role": "PC",
+    "content_language": "de",
+    "terminology_language": "en",
+    "status": "base template; placeholders and Stunts must be completed",
+    "aspect_slots": ["High Concept", "Trouble", "Relationship", "Free Aspect 1", "Free Aspect 2"],
+    "skills": {"Academics": 4, "Investigate": 3, "Rapport": 3, "Notice": 2, "Will": 2, "Crafts": 2, "Physique": 1, "Athletics": 1, "Empathy": 1, "Contacts": 1},
+    "skill_allocation_note": "Illustrative investigator/communicator allocation; reassign for the actual concept and recompute Stress",
+    "stress": [
+      {"domain": "physical", "capacities": [1, 1, 1, 1], "derived_from": "Physique", "mark_policy": "multiple_boxes_per_hit"},
+      {"domain": "mental", "capacities": [1, 1, 1, 1], "derived_from": "Will", "mark_policy": "multiple_boxes_per_hit"}
+    ],
+    "consequences": [
+      {"severity": "mild", "capacity": 2, "domain": "any", "aspect": null},
+      {"severity": "moderate", "capacity": 4, "domain": "any", "aspect": null},
+      {"severity": "severe", "capacity": 6, "domain": "any", "aspect": null}
+    ],
+    "free_stunt_slots": 3,
+    "paid_stunts": 0,
+    "refresh": 3,
+    "minimum_refresh": 1
+  },
+  "card": {
+    "version": 1,
+    "kind": "character",
+    "title": "<Name>",
+    "subtitle": "Full Character / PC · Fate Condensed · Base Template",
+    "tags": ["GM", "Template", "de", "condensed"],
+    "fields": [
+      {"label": "High Concept", "value": "<Wer ist die Figur, und warum ist sie interessant?>"},
+      {"label": "Trouble", "value": "<Eine Schwierigkeit, die du gern ausspielen möchtest>"},
+      {"label": "Relationship", "value": "<Verbindung zu einem anderen PC gemeinsam festlegen; keinen fremden PC erfinden>"},
+      {"label": "Free Aspect 1 / Free Aspect 2", "value": "<Zwei unterschiedliche deutsche Aspect-Phrasen mit Spielpotenzial>"},
+      {"label": "Goal / Values / Personality", "value": "<Konkretes Ziel, persönliche Grenze, Auftreten und eine kurze relevante Vorgeschichte>"},
+      {"label": "Skills", "value": "Great (+4): Academics. Good (+3): Investigate, Rapport. Fair (+2): Notice, Will, Crafts. Average (+1): Physique, Athletics, Empathy, Contacts. Unlisted +0. Beispielbelegung, keine vorgeschriebene Klasse."},
+      {"label": "Stunts", "value": "Drei freie Slots: <Name auf Deutsch; +2 auf English Skill für eine benannte Action unter enger Bedingung, oder klar begrenzte Regel-Ausnahme>. Slots dürfen zunächst offen bleiben, müssen dann als offen markiert sein."},
+      {"label": "Physical Stress / Mental Stress", "value": "Physical [1][1][1][1] aus Physique +1; Mental [1][1][1][1] aus Will +2. Alle Kästchen haben Wert 1; mehrere dürfen einen Treffer abfangen. Nach Skill-Änderungen neu berechnen."},
+      {"label": "Consequences", "value": "mild 2 [empty]; moderate 4 [empty]; severe 6 [empty]. Gemeinsame Slots; zusätzliche domain-restricted mild Slots erst bei Physique/Will +5."},
+      {"label": "Refresh", "value": "3 bei drei freien und keinen gekauften Stunts. Jeder zusätzliche gekaufte Stunt kostet 1 Refresh; mindestens 1 Refresh."}
+    ]
+  }
+}

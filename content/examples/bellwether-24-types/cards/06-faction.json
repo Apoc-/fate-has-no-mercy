@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "kind": "faction",
+  "title": "The Unwritten",
+  "subtitle": "Faction · Informal movement · freedom from recorded ownership",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Aspect",
+      "value": "No One Owns the Name I Choose"
+    },
+    {
+      "label": "Agenda / methods",
+      "value": "Abolish involuntary time collection. Hide debtors, circulate counterfeit blank forms and stage public readings of erased names."
+    },
+    {
+      "label": "Face / resource",
+      "value": "Lark, a former obituary writer, knows the city by aliases. Members maintain safe kitchens and unregistered bellwind routes."
+    },
+    {
+      "label": "Internal fault line",
+      "value": "A rescue wing wants the forged roll exposed; a purist cell wants every debt record destroyed, including evidence that could free innocent collectors."
+    },
+    {
+      "label": "Relationship / price",
+      "value": "Offers Ira shelter in exchange for protecting a witness. Distrusts Nera's badge but will judge her testimony rather than her uniform."
+    },
+    {
+      "label": "If ignored",
+      "value": "The purist cell plans to burn the Archive at 00:15, after the special collection bell at 00:10. Its members can be persuaded to preserve or duplicate evidence; their move is not an inevitable event."
+    }
+  ]
+}

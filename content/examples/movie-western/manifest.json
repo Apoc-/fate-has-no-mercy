@@ -1,0 +1,105 @@
+{
+  "definition_count": 4,
+  "card_count": 6,
+  "ruleset": "condensed",
+  "language": "de",
+  "terminology": "en",
+  "checks": [
+    "unique four template IDs",
+    "canonical English Skills",
+    "minor-NPC durability",
+    "one-point Condensed Stress and marking policy",
+    "derived Physique/Will thresholds",
+    "empty shared Consequences",
+    "PC pyramid and Refresh",
+    "scoped Stunts",
+    "real PNG/SVG/JSON/text exports"
+  ],
+  "cards": [
+    {
+      "id": "goon-profile",
+      "definition": "goon",
+      "size": [
+        640,
+        1174
+      ],
+      "formats": [
+        "JSON",
+        "PNG",
+        "SVG",
+        "text"
+      ]
+    },
+    {
+      "id": "standard-npc-profile",
+      "definition": "standard-npc",
+      "size": [
+        640,
+        1590
+      ],
+      "formats": [
+        "JSON",
+        "PNG",
+        "SVG",
+        "text"
+      ]
+    },
+    {
+      "id": "full-character-profile",
+      "definition": "full-character",
+      "size": [
+        640,
+        1512
+      ],
+      "formats": [
+        "JSON",
+        "PNG",
+        "SVG",
+        "text"
+      ]
+    },
+    {
+      "id": "full-character-notes",
+      "definition": "full-character",
+      "size": [
+        640,
+        888
+      ],
+      "formats": [
+        "JSON",
+        "PNG",
+        "SVG",
+        "text"
+      ]
+    },
+    {
+      "id": "major-opponent-profile",
+      "definition": "major-opponent",
+      "size": [
+        640,
+        1408
+      ],
+      "formats": [
+        "JSON",
+        "PNG",
+        "SVG",
+        "text"
+      ]
+    },
+    {
+      "id": "major-opponent-notes",
+      "definition": "major-opponent",
+      "size": [
+        640,
+        1486
+      ],
+      "formats": [
+        "JSON",
+        "PNG",
+        "SVG",
+        "text"
+      ]
+    }
+  ],
+  "relationship_note": "Aspect-Vorschlag ausgefüllt; Bezug zu einem anderen PC beim Spielstart gemeinsam zuordnen."
+}

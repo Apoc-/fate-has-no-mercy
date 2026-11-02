@@ -1,0 +1,758 @@
+# Bellwether: The City That Borrowed Tomorrow
+
+Original demonstration; proposed fiction, not campaign canon. GM edition contains secrets.
+
+**Rules:** Fate Core unless explicitly labelled otherwise. All new stunts, powers and extras are original proposals for table approval. The approach example is a separate Fate Accelerated demonstration; the optional skill is not added to the Core sheets.
+
+## Contents
+
+1. **Character** — Ira Venn
+2. **NPC** — Nera Quill
+3. **Creature** — The Margin Hound
+4. **Adversary** — Commissioner Orren Vale
+5. **Location** — The Archive of Unspent Days
+6. **Faction** — The Unwritten
+7. **Organization** — The Office of Civic Time
+8. **Item** — Ledgerglass
+9. **Vehicle** — The Mothlight
+10. **Power** — Echo of the Last Minute
+11. **Extra** — The Clockwork Witness
+12. **Aspect** — I Owe Tomorrow to Someone I Haven't Met
+13. **Skill** — Chronometry
+14. **Approach** — Careful
+15. **Stunt** — Hear the Missing Beat
+16. **Scene** — The Auction of the Missing Hour
+17. **Encounter** — The Hound at the Turnstile
+18. **Mystery** — Who Signed for the Unborn Hour?
+19. **Adventure** — The Night Without Tomorrow
+20. **Setting** — Bellwether
+21. **Campaign** — A Season of Stolen Tomorrows
+22. **Hook** — Your Name, Tomorrow's Roll
+23. **Clue** — The Stamp Beneath the Signature
+24. **Random table** — What Interrupts the Next Bell?
+
+---
+
+## 01. Character: Ira Venn
+
+*Player character · municipal chronologist*
+
+**High concept**
+
+Keeper of the City's Lost Hours
+
+**Trouble**
+
+I Owe Tomorrow to Someone I Haven't Met
+
+**Other aspects**
+
+No Name Left Off the Rescue List; Nera Once Hid Me from the Collectors; Every Machine Has a Human Cost.
+
+**Skills**
+
++4 Lore; +3 Investigate, Rapport; +2 Notice, Will, Crafts; +1 Physique, Athletics, Empathy, Contacts. Unlisted +0.
+
+**Stunts · original proposals**
+
+Margin Reader: +2 Investigate to create an advantage identifying alterations in a physical document. Hear the Missing Beat: +2 Notice to create an advantage identifying disrupted timing after listening to one complete machine cycle. Keeper's Courtesy: +2 Rapport to overcome a public archivist's reluctance to grant supervised access to nonrestricted records.
+
+**Durability / refresh**
+
+Physical [1][2][3]; mental [1][2][3]. Mark at most one box per hit; consequences may also absorb harm. Empty shared consequence slots: mild 2, moderate 4, severe 6. Refresh 3; three free stunts.
+
+**Play now**
+
+Find who forged tomorrow's collection roll without letting the hospital's borrowed-time reserve run dry. The Nera connection is a proposed backstory link; agree other PCs' phase connections together.
+
+---
+
+## 02. NPC: Nera Quill
+
+*Supporting NPC · debt collector turned witness*
+
+**Aspects**
+
+Collector Who Won't Collect a Lie; My Badge Is Also My Leash; Ira Still Owes Me a Favor.
+
+**First impression**
+
+A spotless red coat with one black mourning button. Lets a question hang before answering the question beneath it.
+
+**Want / obstacle**
+
+Get the forged names struck from the roll. Her original warrant also implicates her in delivering earlier false collections.
+
+**Offer / boundary**
+
+Offers a duplicate roll and access to the auction gallery. Will not surrender another collector as a scapegoat to save herself.
+
+**GM knowledge**
+
+Commissioner Vale countersigned the duplicate after the Office of Civic Time closed. Nera kept the receipt in her mourning button.
+
+**Mechanics**
+
+Rapport +3, Contacts +2, Will +1; unlisted +0. Physical [1][2]; mental [1][2][3], one box per hit. Empty mild consequence 2. Stunt proposal, Familiar Faces: +2 Contacts to overcome when locating an off-duty municipal collector in Bellwether.
+
+**Pressure / exit**
+
+If threatened, she seeks public witnesses rather than a fight. She will testify under protection even if doing so costs her badge.
+
+---
+
+## 03. Creature: The Margin Hound
+
+*Supernatural creature · supporting opposition*
+
+**Aspects**
+
+A Paper Beast That Smells Broken Promises; Cannot Hunt a Debt Honestly Forgiven; Bound to the Office Seal.
+
+**Appearance / behavior**
+
+A folded-black-paper hound, its ribs covered in crossed-out signatures. It circles a debtor before choosing which promise to track.
+
+**Want**
+
+Consume the written record of an unfulfilled obligation. Its keeper uses that appetite to patrol the collection engine.
+
+**Mechanics**
+
+Fight +3, Notice +2, Athletics +1, Physique +1; unlisted +0. Physical [1][2][3], mental [1][2], one box per hit. Empty mild consequence 2.
+
+**Stunt proposal**
+
+Scent the Default: +2 Notice to create an advantage tracking a specific broken promise while holding its signed record. Not general lie detection.
+
+**Counterplay**
+
+An honestly forgiven debt loses its scent. A different signed broken promise can draw the hound away; a convincing false scent requires an appropriate create-advantage action. It is not obliged to attack someone who offers food.
+
+**GM truth**
+
+It guards records, not Vale personally. Its binding can be transferred by a lawful Office seal; destroying it is only one possible solution.
+
+---
+
+## 04. Adversary: Commissioner Orren Vale
+
+*Main adversary · architect of the forged collection*
+
+**High concept / trouble**
+
+The Man Who Keeps Tomorrow Solvent; I Can Explain Every Cruelty.
+
+**Other aspects**
+
+My Signature Opens Every Civic Door; The Hospital Knows What I Saved; No One Sees Me Hesitate.
+
+**Goal / method**
+
+Activate the altered collection roll before it can be audited. He uses injunctions, intermediaries and competing emergencies rather than immediate violence.
+
+**Skills**
+
+Contacts +4; Resources +3, Will +3; Deceive +2, Provoke +2, Rapport +2; Notice +1, Empathy +1, Fight +1, Physique +1. Unlisted +0.
+
+**Durability**
+
+Physical [1][2][3]; mental [1][2][3][4], one box per hit. Empty shared mild 2, moderate 4 and severe 6 consequences. No private NPC fate-point pool assigned.
+
+**Stunt proposals**
+
+Signed in Triplicate: +2 Deceive to create an advantage disguising a falsified civic audit trail among genuine documents. Official Channels: +2 Contacts to overcome when recruiting municipal assistance using a currently valid signed order.
+
+**GM motive / counterplay**
+
+He originally borrowed time to keep the hospital alive, then hid the shortfall with unsigned debtors. Reveal both facts, obtain a lawful counterseal, or separate the reserve from the collection machinery. He may concede by resigning and providing the override rather than accepting public disgrace of the hospital.
+
+---
+
+## 05. Location: The Archive of Unspent Days
+
+*Statless place reference*
+
+**Identity / senses**
+
+A public archive suspended beneath the bell tower. Dust smells of warm brass; file drawers click one second before they open.
+
+**Useful features**
+
+A rotating index ladder reaches sealed upper drawers. A speaking tube carries requests to the night clerk. The glass floor reveals the collection pipes below.
+
+**Face / current pressure**
+
+Retired clerk Pell keeps the index. An Office order will transfer the closing-time records to Vale's private vault at midnight.
+
+**Danger / warning**
+
+A red safety shutter trembles before the indexing counterweight moves. Crossing the ladder's travel path when the bell sounds can pin a visitor; stop the wheel or use the maintenance ledge.
+
+**Opportunity**
+
+The carbon-copy index lists the warrant receipt hidden by Nera. It can also reveal the legal route to suspend a collection.
+
+**GM secret / discovery**
+
+A duplicate roll predates its official authorization. Compare receipt times, inspect the paper with Ledgerglass, or ask Pell about the after-hours countersignature.
+
+**Mechanics boundary**
+
+No automatic skills, stress or consequence slots. Add temporary situation aspects only when framing an active scene.
+
+---
+
+## 06. Faction: The Unwritten
+
+*Informal movement · freedom from recorded ownership*
+
+**Aspect**
+
+No One Owns the Name I Choose
+
+**Agenda / methods**
+
+Abolish involuntary time collection. Hide debtors, circulate counterfeit blank forms and stage public readings of erased names.
+
+**Face / resource**
+
+Lark, a former obituary writer, knows the city by aliases. Members maintain safe kitchens and unregistered bellwind routes.
+
+**Internal fault line**
+
+A rescue wing wants the forged roll exposed; a purist cell wants every debt record destroyed, including evidence that could free innocent collectors.
+
+**Relationship / price**
+
+Offers Ira shelter in exchange for protecting a witness. Distrusts Nera's badge but will judge her testimony rather than her uniform.
+
+**If ignored**
+
+The purist cell plans to burn the Archive at 00:15, after the special collection bell at 00:10. Its members can be persuaded to preserve or duplicate evidence; their move is not an inevitable event.
+
+---
+
+## 07. Organization: The Office of Civic Time
+
+*Formal institution · registry and public utility*
+
+**Aspects**
+
+Every Borrowed Hour Must Be Accounted For; The Seal Outranks the Person Holding It.
+
+**Mandate / structure**
+
+Registers voluntary time loans and runs the hospital reserve. Collectors deliver warrants; auditors certify consent; a commissioner authorizes collection.
+
+**Resources / weakness**
+
+Controls the bell tower, official seals and maintenance crews. Lawful collection requires two separately timestamped witnesses to certify a completed roll with every debtor named. Adding or changing a debtor requires fresh certification by both witnesses; the altered roll was never recertified.
+
+**Faces / disagreement**
+
+Vale controls policy. Nera knows field practice. Night auditor Ansel wants a defensible audit, not a revolution, and can issue a temporary stay.
+
+**Access routes**
+
+A valid petition, a public hearing, a staff ally or a covert service entrance can reach the same records with different risks.
+
+**GM use**
+
+Run the Office as people and procedures, not a single evil mind. A lawful stay can halt collection while preserving hospital supply. No faction-scale subsystem is assumed.
+
+---
+
+## 08. Item: Ledgerglass
+
+*Investigative tool · no separate stunt cost*
+
+**Description**
+
+A thumb-sized lens with a hairline of captive dawn running through its rim.
+
+**Fictional permission**
+
+Under strong light it reveals physical overwriting, lifted fibers and ink layers in a document. It does not identify the author, read minds or prove that a statement is true.
+
+**Use in Fate**
+
+Makes relevant Investigate actions possible where the alteration is too fine for the naked eye. No automatic numeric bonus; create an advantage or invoke an established aspect normally.
+
+**Complication**
+
+Its light reveals the examiner's reflection in nearby polished brass. A watcher may spot who is inspecting the roll.
+
+**Where to find it**
+
+Pell loans it against a promise to return a missing index slip. Nera has seen Vale use the same lens on his private copies.
+
+---
+
+## 09. Vehicle: The Mothlight
+
+*Bellwind skiff · pilot-operated vehicle*
+
+**Aspect**
+
+Swift Between Chimes, Helpless in the Silence
+
+**Capabilities**
+
+Carries a pilot and three passengers along the tower's resonant airways. Its fabric keel can skim roofs but cannot sustain flight when the bellwind stops.
+
+**Piloting**
+
+This setting uses Core's Drive for piloted conveyances. Roll only when opposition or a meaningful hazard makes the outcome uncertain; the skiff has no independent action or skill rating.
+
+**Useful fittings**
+
+A folding retrieval hook and a canvas sound-baffle can support create-advantage actions. Neither grants automatic free invokes.
+
+**Risk / counterplay**
+
+The thirteenth bell will reverse the main airway. Land before the marked warning chime, take the sheltered maintenance channel, or secure a roofline tow.
+
+**Ownership**
+
+Lark lends it for the witness extraction. If vehicle damage becomes central, agree a vehicle-extra model before play rather than inventing HP during the chase.
+
+---
+
+## 10. Power: Echo of the Last Minute
+
+*Original supernatural power proposal · Fate Core extra*
+
+**Permission / cost**
+
+Requires a chronomancy-related aspect and an attuned hourglass. Costs one stunt slot; an additional paid stunt reduces refresh by 1 if the character has used their free allocation. Not included in Ira's starting sheet.
+
+**Effect**
+
+Once per scene, spend a fate point while touching a fixed surface to observe its last minute as a faint sensory echo from that location. This grants access to the recorded event, not an automatic advantage or a guaranteed answer.
+
+**Limits**
+
+One vantage, no thoughts, no future events and no events beyond the last minute. Walls still block sight. Illusions in the original event remain illusions.
+
+**Opposition / follow-up**
+
+An active temporal ward can oppose access with Lore; use overcome only when that opposition matters. Investigating an unclear echo is a separate relevant action.
+
+**Counterplay / cost in fiction**
+
+Move the evidence out of range, obscure the scene or let the minute pass. The hourglass glows while used, so observers can recognize the attempt. Table approval required.
+
+---
+
+## 11. Extra: The Clockwork Witness
+
+*Player-owned recording automaton · original extra proposal*
+
+**Permission / cost**
+
+Ownership and workshop access establish permission. One stunt slot buys the recording capability below; paid slots follow normal refresh costs. It is not free additional power for Ira.
+
+**Aspect**
+
+It Remembers Exactly What It Was Shown
+
+**Capability**
+
+A fist-sized brass moth records a continuous ten-minute sound-and-image sequence from its physical perch. Its owner can replay the record; appropriate Investigate actions may create advantages from it.
+
+**Limits / operation**
+
+No autonomous skill rolls, independent turns, remote teleportation or concealed-thought recording. Moving it into a guarded position uses the owner's relevant skill and takes the owner's action when an action is required.
+
+**Complication / counterplay**
+
+It is audible at close range and can be covered, stolen or misdirected. A truthful recording can still omit the decisive event outside its view.
+
+**Availability**
+
+One is held as evidence in the Office vault. Acquiring it is fiction; gaining the proposed ongoing ability also needs the agreed character-resource cost.
+
+---
+
+## 12. Aspect: I Owe Tomorrow to Someone I Haven't Met
+
+*Character trouble · two-edged authoring example*
+
+**Meaning**
+
+A binding promise saved you once. Its unknown holder can someday demand repayment, but that promise also marks you as someone trusted by an unusual future ally.
+
+**Useful applications**
+
+Invoke when that obligation gives you credibility with time-brokers, or when you draw on preparations made to honor the promise. Explain relevance and pay or use a valid free invoke normally.
+
+**Complication applications**
+
+A compel could bring a repayment demand during a rescue, or reveal that a useful official is the debt holder whose interests oppose yours. Negotiate the complication; it does not force a player action or mean a roll must fail.
+
+**Not a power**
+
+The aspect alone does not grant prophecy, time travel or a standing +2. Establish supernatural permissions separately.
+
+**Connected use**
+
+This is Ira Venn's trouble. Decide who holds the debt through play or with the player, not by secretly rewriting established history.
+
+---
+
+## 13. Skill: Chronometry
+
+*Optional custom skill · NOT added to the Core examples*
+
+**Design purpose**
+
+For a campaign where temporal engineering deserves its own spotlight, split that specialty from Lore. Agree the revised skill list and rebalance/rebuild allocations together; do not add free ratings on top of existing skills.
+
+**Overcome**
+
+Calibrate a collection engine, diagnose a temporal seal, or stabilize an out-of-phase instrument when failure matters.
+
+**Create an advantage**
+
+Identify a skipped cycle, establish a safe timing window or expose a falsified timestamp through temporal analysis.
+
+**Attack / defend**
+
+No normal attacks. Defend against attempts to sabotage a timing process you are actively controlling, not against bullets or every form of magic.
+
+**Boundary**
+
+Investigate still examines mundane evidence, Crafts repairs ordinary machinery, and Lore covers other knowledge. If the specialty rarely matters, keep it in Lore and differentiate experts with aspects/stunts instead.
+
+---
+
+## 14. Approach: Careful
+
+*Separate Fate Accelerated example · not a Core bonus*
+
+**What it describes**
+
+How a character acts: methodical checks, preparation and avoiding unnecessary risk. It is not a domain skill or an extra rating added to Lore.
+
+**Example action**
+
+A chronologist tries to align a witness cylinder without erasing it. A Careful approach means inspecting each detent, marking the original position and testing the mechanism slowly.
+
+**Sample rating**
+
+Careful +2 in a separate FAE character build: roll 4dF +2 when that approach genuinely fits. This is the approach rating, not a free invoke or a bonus on the Core sheets.
+
+**Trade-off in fiction**
+
+Taking time may expose the character to the approaching inspection. Careful does not automatically prevent failure or add a permanent penalty; consequences follow the situation.
+
+**Other routes**
+
+A Quick attempt could beat the inspector to the chamber; a Clever attempt could reconstruct alignment from the sound. Choose the actual method, not merely the highest number.
+
+---
+
+## 15. Stunt: Hear the Missing Beat
+
+*Original Fate Core stunt proposal · included on Ira's sheet*
+
+**Rule text**
+
+Gain +2 to Notice when creating an advantage to identify disrupted timing in a repetitive mechanism after listening to one complete cycle.
+
+**Scope**
+
+One skill: Notice. One action: create an advantage. One circumstance: a complete observed cycle of a repetitive mechanism. No bonus to attacks, general detection, testimony or every temporal problem.
+
+**Example**
+
+Listen to the collection engine and identify a double-counted interval. A successful action might establish A Missing Beat Between Signatures, with the normal outcome's free invoke allocation.
+
+**Limits / cost**
+
+Listening takes the fictional time the cycle requires. Costs one stunt allocation; no separate fate-point activation cost. This is one of Ira's three free starting stunts, not a fourth.
+
+**Review**
+
+Approve the trigger and relevance with the table. The fiction must actually contain disrupted timing; the stunt is not permission to create evidence retroactively.
+
+---
+
+## 16. Scene: The Auction of the Missing Hour
+
+*Active scene frame · social tension before violence*
+
+**Opening / stakes**
+
+An unnamed hour is auctioned in a glass cylinder. Nera sees her witness stamp on its base. Can the party learn who consigned it without exposing her as the source?
+
+**People / goals**
+
+Vale's broker wants a quiet sale. Nera wants the stamp preserved. Lark wants the buyer list. The PCs choose what matters to them.
+
+**Situation aspects**
+
+Every Bid Names a Debtor; Glass Carries Every Whisper; A Bell Already Drawing Breath. Zero free invokes initially unless established preparation earns them.
+
+**Zones / connections**
+
+Auction Floor connects to Observer Gallery by a guarded stair. Gallery connects to Cylinder Vault by a locked service door; a maintenance hatch offers an alternative route.
+
+**Play structure**
+
+Start with ordinary roleplay and relevant overcome/create-advantage actions. Use a contest if parties race to secure the lot; use a conflict only if they become able and willing to harm one another.
+
+**Pressure / exits**
+
+At the warning chime the broker seals the cylinder for delivery. PCs may buy access, reveal an inconsistency, steal the stamp, bargain with the buyer, or pursue an approach not listed here.
+
+---
+
+## 17. Encounter: The Hound at the Turnstile
+
+*Encounter seed · opposition with several solutions*
+
+**Situation**
+
+The Margin Hound blocks the maintenance turnstile beneath the tower. Behind it, a witness cylinder is being carried toward the engine.
+
+**Telegraph**
+
+Its paper ribs rustle toward the party's signed documents, not their weapons. A discarded forgiven debt lies untouched beside its paw.
+
+**Options**
+
+Sneak past its Notice +2; distract it with another genuinely broken signed promise; obtain a lawful Office transfer; ask a creditor to forgive the scent-bearing debt; or confront it directly.
+
+**If it becomes a fight**
+
+Use the creature's sheet: Fight +3, appropriate other skills, stress and mild slot. No assumed party-size balance. It attacks to seize the contract and yields when its binding is lawfully lifted.
+
+**Noncombat stakes**
+
+Failing an opposed bypass may expose the witness, consume time or create a new obstacle. Agree the meaningful cost instead of making every failed roll inflict damage.
+
+**Connection**
+
+The encounter changes access to the finale, not the truth of the forgery. A party that withdraws can still pursue an audit or reach the engine by another route.
+
+---
+
+## 18. Mystery: Who Signed for the Unborn Hour?
+
+*GM mystery framework · redundant discovery routes*
+
+**Question / truth**
+
+Who added unsigned citizens to tomorrow's collection roll? Vale inserted the names after hours to conceal the hospital reserve's shortfall, then countersigned his own forgery.
+
+**Essential conclusion**
+
+The roll lacks valid consent and can be stayed without immediately stopping the hospital reserve.
+
+**Independent routes**
+
+Archive: debtor names were added after witness certification; the posted Office rule requires fresh witnesses. Nera: her hidden receipt connects the changes to the countersigner, and she can attest no recertification occurred. Office: auditor Ansel can verify the missing fresh witness records. These are three routes, not three mandatory checks.
+
+**Fair complication**
+
+The Unwritten's blank forms resemble the altered paper, but their watermark identifies a different batch. Reveal that distinguishing evidence; do not treat an innocent faction's style as proof.
+
+**Why it matters**
+
+Proof opens a lawful stay, leverage over Vale, or a public hearing. It does not decide which response the PCs must choose.
+
+**Run it**
+
+Provide obvious evidence when characters can reasonably see it. Rolls can determine speed, detail or risk; no single failed check should erase every path to the required conclusion.
+
+---
+
+## 19. Adventure: The Night Without Tomorrow
+
+*One-session adventure · three connected nodes*
+
+**Entry**
+
+Nera brings the party a roll bearing their names and an unsigned collection warrant. At the thirteenth bell the engine will act on it unless someone intervenes.
+
+**Node 1 · Archive**
+
+Compare receipt times, meet Pell and locate the consent rule. Leads point to Nera's stamp at the auction and Ansel's authority at the Office.
+
+**Node 2 · Auction**
+
+Secure the witness stamp, a broker's delivery note or a buyer willing to testify. Each can connect Vale to the engine without requiring a specific theft or purchase.
+
+**Node 3 · Engine / Office**
+
+Choose a covert intervention, a lawful stay or a public confrontation. The hound guards one route; the maintenance channel and audit route remain alternatives.
+
+**If unopposed / timeline**
+
+23:50 warning chime; 00:00 records transfer; 00:10 special thirteenth bell collects the forged debt; 00:15 the purist cell attempts to burn the Archive index. Forewarning gives the PCs room to change any event.
+
+**Possible resolutions**
+
+Suspend the illegal roll and seek informed voluntary replacement loans; isolate the hospital reserve before disabling collection; expose Vale and demand an emergency civic vote. Reward unexpected workable solutions, not only these examples.
+
+**Aftermath**
+
+Who now controls the reserve? Which witnesses trust the PCs? End on changed relationships and a remaining issue; do not force a predetermined ending.
+
+---
+
+## 20. Setting: Bellwether
+
+*Urban clockpunk fantasy setting pitch*
+
+**Premise**
+
+A cliffside city powers its hospitals, lifts and night markets with voluntarily borrowed hours. Signed time-debts are tangible records, and their collection changes what people can do with their coming days.
+
+**Current issue**
+
+The City Runs on Borrowed Tomorrows: useful public infrastructure depends on debts whose consent is no longer trustworthy.
+
+**Impending issue / timeline**
+
+The Thirteenth Bell Will Collect from the Unwilling. The warning sounds at 23:50, records transfer at midnight, the special thirteenth collection bell sounds at 00:10, and the purist cell plans its attack for 00:15. These are threatened events the PCs can change.
+
+**Faces / forces**
+
+Nera Quill offers testimony; Vale offers stability at a human cost; the Unwritten offers freedom with an internal argument over evidence and destruction.
+
+**Places / technology**
+
+The Archive hangs below the tower; bellwind skiffs cross the upper lanes; the hospital reserve is physically separable from the collection engine. Magic records events but is not automatic mind-reading or prophecy.
+
+**PC invitation**
+
+Who once lent you an hour? Whose name would you risk your future to protect? Pick an answer together and connect it to another PC.
+
+**Tone / boundaries**
+
+Street-level wonder, civic intrigue and difficult bargains, not mandatory grimdark. Agree comfort with debt, lost time and institutional coercion before play. All fiction here is a new proposal.
+
+---
+
+## 21. Campaign: A Season of Stolen Tomorrows
+
+*Campaign framework · open consequences, not a fixed plot*
+
+**Campaign question**
+
+Can Bellwether keep its life-saving wonders without allowing anyone to own another person's future?
+
+**Arc 1 · Consent**
+
+Begin with The Night Without Tomorrow. Follow the forged roll and decide what proof, people and infrastructure to preserve.
+
+**Arc 2 · Dependence**
+
+Explore who profits from lawful loans as well as fraud. Neighboring districts offer rival solutions; the Unwritten and Office can split, reform or cooperate according to play.
+
+**Arc 3 · Ownership**
+
+Confront the founding compact behind the tower. The future debt holder in Ira's trouble can emerge through player agreement; their identity and solution are not pre-scripted.
+
+**Moving interests**
+
+Vale seeks a legacy or escape; the rescue wing protects people; the purists target records; hospital staff need a functioning reserve. Advance plans only when the fiction and PCs' choices warrant it.
+
+**Milestones**
+
+Use Core milestones at appropriate fiction-driven points: minor opportunities to adjust a character, significant milestones for scenario/arc development, major milestones for major changes. Apply the actual advancement rules, not automatic rewards per session.
+
+**Ending space**
+
+A reformed utility, decentralized time commons, a city that abandons the tower, or a costly new compact are all possible. Let decisions establish the outcome.
+
+---
+
+## 22. Hook: Your Name, Tomorrow's Roll
+
+*Immediate actionable opening*
+
+**Say at the table**
+
+A woman in a red collector's coat puts a warrant on your table. Your name is beneath tomorrow's date. The consent signature is not yours. 'I delivered one of these yesterday,' she says. 'I won't deliver this one.'
+
+**Offer / urgency**
+
+Nera offers the duplicate and a way into the auction gallery if the PCs protect her testimony. The warning chime sounds before midnight; the collection is later, at the thirteenth bell.
+
+**Choices**
+
+Verify the warrant, protect Nera, approach the Office, investigate the debtor named beside you, or refuse and seek another way to keep your name off the roll.
+
+**If declined**
+
+Nera approaches auditor Ansel. Her attempt can change the situation without forcing the PCs to accept the job or punishing refusal with unavoidable failure.
+
+**GM placement**
+
+Connect a borrowed hour or named debtor to a PC only with player agreement. The forged signature is a problem to investigate, not permission to rewrite a character's agreed past.
+
+---
+
+## 23. Clue: The Stamp Beneath the Signature
+
+*GM clue · physical fact, discovery and implication*
+
+**Observable fact**
+
+On the duplicate roll, the debtor-name ink crosses the witness stamp's dried ridge without being indented by it: the names were written after the stamp was applied. This establishes sequence, not authorship or intent.
+
+**Ways to discover**
+
+Compare the original and carbon copy at the Archive; inspect the layering with Ledgerglass; or ask Pell to demonstrate how the Office press leaves its ridge. These are alternative channels for one clue.
+
+**Inference / next action**
+
+Office rules require witnesses to certify the completed named roll and demand fresh certification for later name changes. The layering therefore raises a specific recertification defect; check the witness register or ask Ansel. If no fresh certification exists, request a stay. Question the countersigner or obtain the earlier impression to investigate responsibility.
+
+**What it does NOT prove**
+
+It does not by itself identify who changed the roll. Nera's receipt and Vale's countersignature independently connect the commissioner.
+
+**Roll policy**
+
+If the ridge is plainly demonstrated, give the fact. A relevant roll may reveal it more quickly or create an advantage for the hearing, not decide whether the entire mystery remains solvable.
+
+---
+
+## 24. Random table: What Interrupts the Next Bell?
+
+*1d6 situation spark · original table*
+
+**1 · Unexpected ally**
+
+An off-duty collector recognizes Nera and offers a lawful route through a closed door, but needs a witness for their own protection.
+
+**2 · Evidence changes hands**
+
+The witness cylinder's buyer wants to resell it before leaving. Negotiate, follow or expose the sale; ownership is not proof of guilt.
+
+**3 · A route opens**
+
+A stalled service lift exposes a crawlway to the Archive. The keeper will hold it for a practical favor, not an inevitable bribe.
+
+**4 · Danger announces itself**
+
+A false beat reverses the upper bellwind. The warning gives skiff passengers time to land, tether up or choose the sheltered route.
+
+**5 · Competing priority**
+
+Hospital staff ask for help separating the reserve before any shutdown. They can explain the relevant controls; this need not erase another solution.
+
+**6 · Faction disagreement**
+
+The Unwritten's purist cell arrives with oil; its rescue wing asks the PCs to preserve the witness records. Decide which argument or alternative to offer.
+
+**Use**
+
+Roll one ordinary d6 when an interruption would help, or choose. Adapt to established facts; do not force a duplicate ally, contradict a secured clue or impose a player decision. Entries create opportunities, pressure and changes, not only punishment.
+
+---

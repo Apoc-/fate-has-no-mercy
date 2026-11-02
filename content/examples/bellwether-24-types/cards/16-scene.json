@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "The Auction of the Missing Hour",
+  "subtitle": "Scene · Active scene frame · social tension before violence",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Opening / stakes",
+      "value": "An unnamed hour is auctioned in a glass cylinder. Nera sees her witness stamp on its base. Can the party learn who consigned it without exposing her as the source?"
+    },
+    {
+      "label": "People / goals",
+      "value": "Vale's broker wants a quiet sale. Nera wants the stamp preserved. Lark wants the buyer list. The PCs choose what matters to them."
+    },
+    {
+      "label": "Situation aspects",
+      "value": "Every Bid Names a Debtor; Glass Carries Every Whisper; A Bell Already Drawing Breath. Zero free invokes initially unless established preparation earns them."
+    },
+    {
+      "label": "Zones / connections",
+      "value": "Auction Floor connects to Observer Gallery by a guarded stair. Gallery connects to Cylinder Vault by a locked service door; a maintenance hatch offers an alternative route."
+    },
+    {
+      "label": "Play structure",
+      "value": "Start with ordinary roleplay and relevant overcome/create-advantage actions. Use a contest if parties race to secure the lot; use a conflict only if they become able and willing to harm one another."
+    },
+    {
+      "label": "Pressure / exits",
+      "value": "At the warning chime the broker seals the cylinder for delivery. PCs may buy access, reveal an inconsistency, steal the stamp, bargain with the buyer, or pursue an approach not listed here."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "I Owe Tomorrow to Someone I Haven't Met",
+  "subtitle": "Aspect · Character trouble · two-edged authoring example",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Meaning",
+      "value": "A binding promise saved you once. Its unknown holder can someday demand repayment, but that promise also marks you as someone trusted by an unusual future ally."
+    },
+    {
+      "label": "Useful applications",
+      "value": "Invoke when that obligation gives you credibility with time-brokers, or when you draw on preparations made to honor the promise. Explain relevance and pay or use a valid free invoke normally."
+    },
+    {
+      "label": "Complication applications",
+      "value": "A compel could bring a repayment demand during a rescue, or reveal that a useful official is the debt holder whose interests oppose yours. Negotiate the complication; it does not force a player action or mean a roll must fail."
+    },
+    {
+      "label": "Not a power",
+      "value": "The aspect alone does not grant prophecy, time travel or a standing +2. Establish supernatural permissions separately."
+    },
+    {
+      "label": "Connected use",
+      "value": "This is Ira Venn's trouble. Decide who holds the debt through play or with the player, not by secretly rewriting established history."
+    }
+  ]
+}

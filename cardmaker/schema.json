@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:cardmaker:card:v1",
+  "title": "Cardmaker authored card v1",
+  "type": "object",
+  "required": ["version", "kind", "title", "tags", "fields"],
+  "properties": {
+    "version": {"const": 1, "type": "integer"},
+    "kind": {"enum": ["npc", "location", "character", "item", "faction", "note"]},
+    "title": {"type": "string", "pattern": "\\S"},
+    "subtitle": {"type": "string"},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "fields": {"type": "array", "items": {"type": "object", "required": ["label", "value"], "properties": {"label": {"type": "string", "pattern": "\\S"}, "value": {"type": "string"}}}}
+  },
+  "$comment": "Runtime additionally rejects XML-incompatible control characters and cards above 65536 UTF-8 bytes. Unknown keys are preserved for extension but not rendered."
+}

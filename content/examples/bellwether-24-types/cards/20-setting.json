@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "Bellwether",
+  "subtitle": "Setting · Urban clockpunk fantasy setting pitch",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Premise",
+      "value": "A cliffside city powers its hospitals, lifts and night markets with voluntarily borrowed hours. Signed time-debts are tangible records, and their collection changes what people can do with their coming days."
+    },
+    {
+      "label": "Current issue",
+      "value": "The City Runs on Borrowed Tomorrows: useful public infrastructure depends on debts whose consent is no longer trustworthy."
+    },
+    {
+      "label": "Impending issue / timeline",
+      "value": "The Thirteenth Bell Will Collect from the Unwilling. The warning sounds at 23:50, records transfer at midnight, the special thirteenth collection bell sounds at 00:10, and the purist cell plans its attack for 00:15. These are threatened events the PCs can change."
+    },
+    {
+      "label": "Faces / forces",
+      "value": "Nera Quill offers testimony; Vale offers stability at a human cost; the Unwritten offers freedom with an internal argument over evidence and destruction."
+    },
+    {
+      "label": "Places / technology",
+      "value": "The Archive hangs below the tower; bellwind skiffs cross the upper lanes; the hospital reserve is physically separable from the collection engine. Magic records events but is not automatic mind-reading or prophecy."
+    },
+    {
+      "label": "PC invitation",
+      "value": "Who once lent you an hour? Whose name would you risk your future to protect? Pick an answer together and connect it to another PC."
+    },
+    {
+      "label": "Tone / boundaries",
+      "value": "Street-level wonder, civic intrigue and difficult bargains, not mandatory grimdark. Agree comfort with debt, lost time and institutional coercion before play. All fiction here is a new proposal."
+    }
+  ]
+}

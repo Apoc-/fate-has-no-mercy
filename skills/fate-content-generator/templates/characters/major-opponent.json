@@ -1,0 +1,47 @@
+{
+  "template": {
+    "id": "major-opponent",
+    "label": "Major Opponent / BBEG",
+    "ruleset": "condensed",
+    "native_role": "major NPC",
+    "content_language": "de",
+    "terminology_language": "en",
+    "status": "base template; placeholders and opposition context must be completed",
+    "aspect_slots": ["High Concept", "Trouble", "Relationship", "Free Aspect 1", "Free Aspect 2"],
+    "opposition_assumptions": {"relevant_pc_peak": 4, "example_npc_peak": 5, "party_size": null, "balance_claim": false},
+    "skills": {"Lore": 5, "Will": 4, "Contacts": 4, "Physique": 3, "Fight": 3, "Deceive": 3, "Notice": 2, "Rapport": 2, "Athletics": 2, "Resources": 2},
+    "skill_allocation_note": "Illustrative occult antagonist, not a universal BBEG recipe or a PC build. Adapt peak and competencies to the actual party, conflict and concept.",
+    "stress": [
+      {"domain": "physical", "capacities": [1, 1, 1, 1, 1, 1], "derived_from": "Physique", "mark_policy": "multiple_boxes_per_hit"},
+      {"domain": "mental", "capacities": [1, 1, 1, 1, 1, 1], "derived_from": "Will", "mark_policy": "multiple_boxes_per_hit"}
+    ],
+    "consequences": [
+      {"severity": "mild", "capacity": 2, "domain": "any", "aspect": null},
+      {"severity": "moderate", "capacity": 4, "domain": "any", "aspect": null},
+      {"severity": "severe", "capacity": 6, "domain": "any", "aspect": null}
+    ],
+    "stunt_slots": 3,
+    "fate_point_policy": "shared GM scene pool; no private PC Refresh budget",
+    "automatic_extra_turns": false,
+    "extreme_consequences": false
+  },
+  "card": {
+    "version": 1,
+    "kind": "npc",
+    "title": "<Name oder Titel>",
+    "subtitle": "Major Opponent / BBEG · Fate Condensed · Base Template",
+    "tags": ["GM", "Template", "de", "condensed"],
+    "fields": [
+      {"label": "High Concept / Trouble", "value": "<Macht und Identität als deutsche Aspect-Phrase> / <Persönlicher Widerspruch, den die PCs ausnutzen können>"},
+      {"label": "Relationship / Free Aspects", "value": "<Eine bedeutsame Verbindung und zwei weitere unterschiedliche Aspects; NPC-Verbindungen sind hier ausdrücklich erlaubt>"},
+      {"label": "Agenda / Stakes", "value": "<Konkretes Ziel, begründetes Motiv und nächste Handlung ohne Eingreifen der PCs>"},
+      {"label": "Methods / Assets", "value": "<Vorgehen, Verbündete, Einfluss und erkennbare persönliche Verhaltensweisen>"},
+      {"label": "Skills", "value": "Beispiel für einen okkulten Gegner: Lore +5; Will +4, Contacts +4; Physique +3, Fight +3, Deceive +3; Notice +2, Rapport +2, Athletics +2, Resources +2. Unlisted +0. Annahme: relevante PC-Spitzen ungefähr +4; keine Balance-Garantie."},
+      {"label": "Stunts", "value": "Drei vorbereitbare Slots: <Signaturfähigkeit>, <eng begrenzte Verteidigung>, <Einfluss oder Vorbereitung>. Jeweils English Skill/Action, konkrete Bedingung und klare Wirkung; Ausnahmen ausdrücklich benennen. Keine automatischen Zusatzaktionen."},
+      {"label": "Physical Stress / Mental Stress", "value": "Physical [1][1][1][1][1][1] aus Physique +3; Mental [1][1][1][1][1][1] aus Will +4. Mehrere Ein-Punkt-Kästchen pro Treffer möglich. Lore +5 verleiht keinen zusätzlichen mild Slot."},
+      {"label": "Consequences / Fate Points", "value": "mild 2 [empty]; moderate 4 [empty]; severe 6 [empty]. Gemeinsamer GM scene pool, kein eigener PC-Refresh-Vorrat. Extreme Consequences hier nicht aktiviert."},
+      {"label": "Weaknesses / Counterplay", "value": "<Mindestens zwei erkennbare und tatsächlich nutzbare Gegenmaßnahmen; nicht bloß bedeutungslose Charakterfehler>"},
+      {"label": "Concession / Escape", "value": "<Worauf verzichtet die Figur, was schützt sie noch und wie kann ein Rückzug aussehen?> Eine Concession vor dem relevanten Roll anbieten und aushandeln; kein automatischer Fluchtknopf."}
+    ]
+  }
+}

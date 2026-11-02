@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "kind": "npc",
+  "title": "Silas Vane",
+  "subtitle": "Major Opponent / BBEG · Profile / Mechanics",
+  "tags": [
+    "Movie Western",
+    "GM"
+  ],
+  "fields": [
+    {
+      "label": "High Concept",
+      "value": "Der Mann, dem die Stadt auf dem Papier gehört"
+    },
+    {
+      "label": "Trouble",
+      "value": "Ich ertrage keinen Zeugen, den ich nicht kaufen kann"
+    },
+    {
+      "label": "Relationship / Free Aspects",
+      "value": "Die Stadt schuldet mir ihre Dächer / Meine Unterschrift zahlt die Sterne / Selbst der Arzt stellte mir ihre Rechnung"
+    },
+    {
+      "label": "Agenda / Methods",
+      "value": "Vane will das beglaubigte Landregister vor einer öffentlichen Übergabe abfangen und durch eine unvollständige Kopie ersetzen. Mit Schuldscheinen, Aufträgen und gekauften Zeugen lässt er Gewalt wie fremdes Handeln aussehen."
+    },
+    {
+      "label": "Personality / Connection",
+      "value": "Er bietet zuerst einen Stuhl, dann einen Vertrag und zuletzt einen Ausweg an. Elena verdankt ihm eine frühere Arztrechnung; Clara schuldet ihm Geld. Er hält Dankbarkeit und Eigentum für dasselbe, behauptet aber ernsthaft, ohne seine Investitionen gäbe es die Stadt nicht."
+    },
+    {
+      "label": "Skills",
+      "value": "Resources +5; Contacts +4, Will +4; Deceive +3, Shoot +3, Physique +3; Notice +2, Fight +2, Rapport +2, Athletics +2. Unlisted +0. Beispielprofil für PC-Spitzen um +4, keine pauschale Balance-Garantie."
+    },
+    {
+      "label": "Physical Stress / Mental Stress",
+      "value": "Physical [1][1][1][1][1][1] aus Physique +3. Mental [1][1][1][1][1][1] aus Will +4. Nur Ein-Punkt-Kästchen; mehrere pro Treffer möglich. Resources +5 verleiht keinen zusätzlichen mild Slot."
+    },
+    {
+      "label": "Consequences / Fate Points",
+      "value": "mild 2 [empty]; moderate 4 [empty]; severe 6 [empty], gemeinsame Slots. NPC-Invokes aus dem GM scene pool. Kein eigener PC-Refresh-Vorrat, keine automatischen Zusatzaktionen. Alle Stunts sind neue Vorschläge für die Spielrunde."
+    }
+  ]
+}

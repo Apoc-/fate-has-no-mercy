@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "kind": "npc",
+  "title": "Wade »Staub« Rusk",
+  "subtitle": "Goon",
+  "tags": [],
+  "fields": [
+    {
+      "label": "Aspect",
+      "value": "Für Geld hier, nicht zum Sterben."
+    },
+    {
+      "label": "Skills",
+      "value": "Shoot +1; unlisted +0"
+    },
+    {
+      "label": "Stress",
+      "value": "[1]"
+    },
+    {
+      "label": "Behaviour",
+      "value": "Bewacht den Schuppen; flieht, wenn er allein ist."
+    }
+  ]
+}

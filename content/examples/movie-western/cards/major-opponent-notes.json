@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "kind": "npc",
+  "title": "Silas Vane",
+  "subtitle": "Major Opponent / BBEG · Stunts / GM Notes",
+  "tags": [
+    "Movie Western",
+    "GM"
+  ],
+  "fields": [
+    {
+      "label": "Stunt · Alles hat seinen Preis",
+      "value": "+2 auf Resources für Create an Advantage, wenn Vane vor einer Operation konkret benannte Transportmittel, Vorräte oder Unterkünfte beschafft. Benötigt eine Action und reale Beschaffungsmöglichkeiten; erschafft keine Leute oder Vorräte augenblicklich."
+    },
+    {
+      "label": "Stunt · Meine Leute stehen überall",
+      "value": "+2 auf Contacts für Overcome, um entlang seiner Bahnstrecke einen bereits bezahlten Mitarbeiter oder Informanten ausfindig zu machen. Kein Fernbefehl, keine zusätzliche Action und kein Schutz vor dessen Gewissensentscheidung."
+    },
+    {
+      "label": "Stunt · Die Wahrheit steht auf der Quittung",
+      "value": "+2 auf Deceive für Create an Advantage beim Präparieren schriftlicher Geschäftsunterlagen als Alibi für eine bestimmte rechtswidrige Handlung. Die Unterlagen müssen zugänglich sein; Zeugen und echte Gegenbelege bleiben Gegenmaßnahmen."
+    },
+    {
+      "label": "Weaknesses / Counterplay",
+      "value": "Erstens: Claras Frachtabschrift verbindet seine Firma mit dem geplanten Zugriff; zusammen mit dem beglaubigten Register und einer unabhängigen Zeugenaussage lässt sich sein öffentliches Alibi angreifen. Zweitens: Seine Männer kämpfen für Lohn. Eine abgesicherte Aussage, ein sicherer Rückzug oder ein echter Gegenauftrag kann ihre Bindung lösen. Keiner dieser Wege erzwingt automatisch einen Erfolg."
+    },
+    {
+      "label": "If Unopposed",
+      "value": "Vanes Vorarbeiter versucht am Bahnhof zuerst Bestechung und einen falschen Frachtbefehl, danach einen verdeckten Diebstahl. Ein offener Angriff gefährdet Vanes Ruf und bleibt Eskalation, kein unvermeidlicher Filmhöhepunkt."
+    },
+    {
+      "label": "Concession / Escape",
+      "value": "Bei drohender öffentlicher Entlarvung könnte Vane das echte Register herausgeben, die Wasseransprüche vorläufig aufgeben und im Gegenzug eine garantierte Gerichtsverhandlung statt einer Lynchjustiz verlangen. Vor dem relevanten Roll aushandeln; kein automatisches Entkommen und kein einseitiges Streichen bereits etablierter Folgen."
+    }
+  ]
+}

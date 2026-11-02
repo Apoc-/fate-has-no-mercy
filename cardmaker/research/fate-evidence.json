@@ -1,0 +1,490 @@
+[
+  {
+    "url": "https://fate-srd.com/fate-core/creating-and-playing-opposition",
+    "claim": "Minimal sheets",
+    "exact_excerpt": "you’re never obligated to give any [NPC] a full sheet like the ones the [PC]s have.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__creating-and-playing-opposition.txt",
+    "line": 7
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/creating-and-playing-opposition",
+    "claim": "Story tiers",
+    "exact_excerpt": "[NPC]s come in three different flavors: nameless [NPC]s, supporting [NPC]s, and main [NPC]s.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__creating-and-playing-opposition.txt",
+    "line": 9
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/creating-and-playing-opposition",
+    "claim": "Supporting resilience",
+    "exact_excerpt": "They have one mild consequence and, if you want them to be especially tough, one moderate consequence.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__creating-and-playing-opposition.txt",
+    "line": 64
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/creating-and-playing-opposition",
+    "claim": "Naming is not a tier upgrade",
+    "exact_excerpt": "simply giving that courtier a name and a motivation doesn’t mean he can’t go down in one punch.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__creating-and-playing-opposition.txt",
+    "line": 51
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/creating-and-playing-opposition",
+    "claim": "Balance is guidance not a budget",
+    "exact_excerpt": "Right-sizing the opposition is more of an art than a science",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__creating-and-playing-opposition.txt",
+    "line": 115
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/setting-scene",
+    "claim": "Scene aspect guidance",
+    "exact_excerpt": "find three to five evocative things about your conflict location and make them into aspects.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__setting-scene.txt",
+    "line": 13
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/setting-scene",
+    "claim": "Zone count guidance",
+    "exact_excerpt": "Two to four is probably sufficient, save for really big conflicts.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__setting-scene.txt",
+    "line": 29
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/setting-scene",
+    "claim": "Mental scenes can omit maps",
+    "exact_excerpt": "you may not even need situation aspects or zones for a lot of mental conflicts.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__setting-scene.txt",
+    "line": 22
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/making-good-aspect",
+    "claim": "Quality principles",
+    "exact_excerpt": "The best aspects are double-edged, say more than one thing, and keep the phrasing simple.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__making-good-aspect.txt",
+    "line": 4
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/making-good-aspect",
+    "claim": "Aspect play test",
+    "exact_excerpt": "list two ways you might invoke the aspect, and two ways someone else could invoke it or you could get a compel from it.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__making-good-aspect.txt",
+    "line": 8
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/making-good-aspect",
+    "claim": "Scene aspects need less breadth",
+    "exact_excerpt": "It’s much more important for game and character aspects to suggest multiple contexts for use.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__making-good-aspect.txt",
+    "line": 17
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/faces-places",
+    "claim": "Places need not have aspects",
+    "exact_excerpt": "Unlike [NPC]s, they don’t require aspects.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__faces-places.txt",
+    "line": 6
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/faces-places",
+    "claim": "Open mysteries",
+    "exact_excerpt": "If there’s a piece of your setting that’s meant to be a mystery which the protagonists uncover, define it only in loose terms.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__faces-places.txt",
+    "line": 8
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/extras",
+    "claim": "Fractal is permission, not universal requirement",
+    "exact_excerpt": "Anything can have aspects, skills, stunts, stress tracks, and consequences if you need it to.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__extras.txt",
+    "line": 15
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/extras",
+    "claim": "Owned extras",
+    "exact_excerpt": "Extras require a permission or cost to own.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__extras.txt",
+    "line": 12
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/establish-opposition",
+    "claim": "Why care",
+    "exact_excerpt": "Why can’t she be ignored?",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__establish-opposition.txt",
+    "line": 7
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/establish-opposition",
+    "claim": "Motive first",
+    "exact_excerpt": "You also need to nail down their motivations and goals, why they’re standing in opposition to the [PC]s’ goals, and what they’re after.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__establish-opposition.txt",
+    "line": 3
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/skills-stunts",
+    "claim": "Skills are broad competencies",
+    "exact_excerpt": "A skill is a word that describes a broad family of competency at something",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__skills-stunts.txt",
+    "line": 4
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/skills-stunts",
+    "claim": "Stunts distinguish",
+    "exact_excerpt": "Having stunts in your game allows you to differentiate characters that have the same skills as one another.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__skills-stunts.txt",
+    "line": 18
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/stress-consequences",
+    "claim": "Two base tracks",
+    "exact_excerpt": "By default, a character has two boxes in each stress track.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__stress-consequences.txt",
+    "line": 7
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/stress-consequences",
+    "claim": "Restricted bonus consequence",
+    "exact_excerpt": "this consequence slot is specifically restricted to either physical harm (Physique) or mental harm (Will).",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__stress-consequences.txt",
+    "line": 12
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/actions-outcomes",
+    "claim": "No empty rolling",
+    "exact_excerpt": "If there’s no interesting opposition, you just accomplish whatever you say you’re trying to do.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__actions-outcomes.txt",
+    "line": 4
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/actions-outcomes",
+    "claim": "Passive environment",
+    "exact_excerpt": "If there is no character in the way, then look at your situation aspects in this scene to see if any of them justify some sort of obstacle",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__actions-outcomes.txt",
+    "line": 25
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/being-game-master",
+    "claim": "Minimal minor",
+    "exact_excerpt": "For a minor NPC, only define what is absolutely necessary.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__being-game-master.txt",
+    "line": 31
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/being-game-master",
+    "claim": "Flexible minor skills",
+    "exact_excerpt": "You can use skills from the skill list or make up something more specific",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__being-game-master.txt",
+    "line": 34
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/being-game-master",
+    "claim": "Minor durability",
+    "exact_excerpt": "Give them zero to three stress boxes; the more they have, the more of a threat they can be.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__being-game-master.txt",
+    "line": 35
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/being-game-master",
+    "claim": "Threat flexibility",
+    "exact_excerpt": "Give them whatever combination of aspects, skills, stunts, stress, and consequences it will take to make them dangerous",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__being-game-master.txt",
+    "line": 37
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/being-game-master",
+    "claim": "Scene pool",
+    "exact_excerpt": "At the start of each scene, begin with a pool of fate points equal to the number of PCs.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__being-game-master.txt",
+    "line": 39
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/getting-started",
+    "claim": "Condensed base resilience",
+    "exact_excerpt": "Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__getting-started.txt",
+    "line": 129
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/getting-started",
+    "claim": "Multiple stress marking",
+    "exact_excerpt": "With 1-point stress boxes you may mark as many of them as you want when you get hit",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__getting-started.txt",
+    "line": 140
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/getting-started",
+    "claim": "Skill list includes Academics",
+    "exact_excerpt": "Academics: Mundane, everyday human knowledge and education, including history, sciences, and medicine.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__getting-started.txt",
+    "line": 79
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/getting-started",
+    "claim": "Bonus stunt pattern",
+    "exact_excerpt": "usually limited to a specific type of action and type of narrative circumstance.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__getting-started.txt",
+    "line": 115
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests",
+    "claim": "Conflict definition",
+    "exact_excerpt": "A conflict is when characters can and want to harm one another.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__challenges-conflicts-and-contests.txt",
+    "line": 6
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests",
+    "claim": "Scene free invokes discretionary",
+    "exact_excerpt": "It’s up to the GM to decide if a situation aspect arising from the scene’s setup provides a free invoke to the players (or even to the NPCs).",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__challenges-conflicts-and-contests.txt",
+    "line": 26
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests",
+    "claim": "Teamwork cap",
+    "exact_excerpt": "The maximum total bonus a team may provide this way is equal to the highest person’s skill level.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__challenges-conflicts-and-contests.txt",
+    "line": 37
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests",
+    "claim": "Consequences as injury aspects",
+    "exact_excerpt": "Consequences are new aspects you write on your character sheet when your character takes a hit, representing the real harm and injury your character suffers.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__challenges-conflicts-and-contests.txt",
+    "line": 68
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/aspects-and-fate-points",
+    "claim": "Always true",
+    "exact_excerpt": "aspects can grant or withdraw permission for what can happen in the story",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__aspects-and-fate-points.txt",
+    "line": 6
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/aspects-and-fate-points",
+    "claim": "Compels not stymies",
+    "exact_excerpt": "make sure that the complication is a course of action or major change in circumstance, not a denial of options.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__aspects-and-fate-points.txt",
+    "line": 46
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/aspects-and-fate-points",
+    "claim": "Boost different from normal aspect",
+    "exact_excerpt": "You cannot compel a boost or spend a fate point to invoke it.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__aspects-and-fate-points.txt",
+    "line": 21
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/optional-rules",
+    "claim": "Optional status",
+    "exact_excerpt": "These are a few optional or alternative rules you can decide to use in your game.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__optional-rules.txt",
+    "line": 3
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/optional-rules",
+    "claim": "Countdown model",
+    "exact_excerpt": "Countdowns have three components: a countdown track, one or more triggers, and an outcome.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__optional-rules.txt",
+    "line": 41
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/optional-rules",
+    "claim": "Obstacles are not enemies",
+    "exact_excerpt": "the defining quality of obstacles is that they can’t.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__optional-rules.txt",
+    "line": 63
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/optional-rules",
+    "claim": "Optional attributes",
+    "exact_excerpt": "Attributes: Strength, Dexterity, Toughness, Intelligence, Charm.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-condensed__optional-rules.txt",
+    "line": 23
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/being-gamemaster",
+    "claim": "Mook strengths",
+    "exact_excerpt": "They get a +2 to all rolls dealing with these things.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__being-gamemaster.txt",
+    "line": 38
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/being-gamemaster",
+    "claim": "Mook weaknesses",
+    "exact_excerpt": "They get a −2 to all rolls dealing with these things.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__being-gamemaster.txt",
+    "line": 39
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/being-gamemaster",
+    "claim": "Mook resilience",
+    "exact_excerpt": "Mooks can’t take consequences.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__being-gamemaster.txt",
+    "line": 43
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/being-gamemaster",
+    "claim": "Grouped mooks",
+    "exact_excerpt": "Give them one stress box for every two individuals in the group.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__being-gamemaster.txt",
+    "line": 63
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/being-gamemaster",
+    "claim": "Optional difficulty adjustment",
+    "exact_excerpt": "The GM may wish to adjust the target number up or down by 1 or 2 depending on whether you choose a fitting or a problematic approach.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__being-gamemaster.txt",
+    "line": 34
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/who-do-you-want-be",
+    "claim": "Approaches how not what",
+    "exact_excerpt": "Approaches are descriptions of how you accomplish tasks.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__who-do-you-want-be.txt",
+    "line": 34
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/who-do-you-want-be",
+    "claim": "Default approach distribution",
+    "exact_excerpt": "Choose one at Good (+3), two at Fair (+2), two at Average (+1), and one at Mediocre (+0).",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__who-do-you-want-be.txt",
+    "line": 41
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/who-do-you-want-be",
+    "claim": "Aspect slots",
+    "exact_excerpt": "Your character will have a handful of aspects (between three and five), including a high concept and a trouble.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__who-do-you-want-be.txt",
+    "line": 11
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/ouch-damage-stress-and-consequences",
+    "claim": "One box per hit",
+    "exact_excerpt": "You can only check one stress box for any single hit",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__ouch-damage-stress-and-consequences.txt",
+    "line": 19
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/ouch-damage-stress-and-consequences",
+    "claim": "Mild recovery differs",
+    "exact_excerpt": "Mild consequence: Clear it at the end of the scene, provided you get a chance to rest.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__ouch-damage-stress-and-consequences.txt",
+    "line": 33
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/ouch-damage-stress-and-consequences",
+    "claim": "Consequences capacities",
+    "exact_excerpt": "Mild consequence = 2 shifts; moderate = 4 shifts; severe = 6 shifts.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__ouch-damage-stress-and-consequences.txt",
+    "line": 11
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/stunts",
+    "claim": "Stunts are authored",
+    "exact_excerpt": "There’s no definitive list of stunts that you pick from",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__stunts.txt",
+    "line": 4
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/stunts",
+    "claim": "Session rule exception pattern",
+    "exact_excerpt": "once per game session I can [describe something cool you can do].",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__stunts.txt",
+    "line": 14
+  },
+  {
+    "url": "https://fate-srd.com/fate-system-toolkit/bronze-rule",
+    "claim": "Custom fractal competencies",
+    "exact_excerpt": "they don’t have to be the same ones the PCs get.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-system-toolkit__bronze-rule.txt",
+    "line": 4
+  },
+  {
+    "url": "https://fate-srd.com/fate-system-toolkit/bronze-rule",
+    "claim": "Not compulsory",
+    "exact_excerpt": "there are some things you might not want to represent this way",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-system-toolkit__bronze-rule.txt",
+    "line": 5
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/building-stunts",
+    "claim": "No universal skill replacement",
+    "exact_excerpt": "You don’t want a stunt replacing the skill it modifies.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__building-stunts.txt",
+    "line": 36
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/building-stunts",
+    "claim": "Core stunt economy restriction",
+    "exact_excerpt": "a stunt can’t change any of the basic rules for aspects in terms of invoking, compelling, and the fate point economy.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__building-stunts.txt",
+    "line": 29
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/resolving-attacks",
+    "claim": "Core one box",
+    "exact_excerpt": "You can only check off one stress box per hit.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__resolving-attacks.txt",
+    "line": 15
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/resolving-attacks",
+    "claim": "Shared consequences",
+    "exact_excerpt": "you only have one set of consequences; there aren’t specific slots for physical versus mental consequences.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__resolving-attacks.txt",
+    "line": 29
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/resolving-attacks",
+    "claim": "Core severe recovery",
+    "exact_excerpt": "For a severe consequence, you have to wait one whole scenario after the recovery action.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/fate-core__resolving-attacks.txt",
+    "line": 54
+  },
+  {
+    "url": "https://fate-srd.com/official-licensing-fate",
+    "claim": "Use official files for licensed adaptations",
+    "exact_excerpt": "Do not use the text on this site, as we have made changes to present the system better as a website.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/official-licensing-fate.txt",
+    "line": 7
+  },
+  {
+    "url": "https://fate-srd.com/downloads/CC-BY-SRDs.zip",
+    "archive_member": "Fate-Core-SRD-CC.html",
+    "claim": "Core supporting consequences",
+    "exact_excerpt": "They have one mild consequence and, if you want them to be especially tough, one moderate consequence.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/official__Fate-Core-SRD-CC.txt",
+    "line": 2040
+  },
+  {
+    "url": "https://fate-srd.com/downloads/CC-BY-SRDs.zip",
+    "archive_member": "Fate-Core-SRD-CC.html",
+    "claim": "Core fractal permission",
+    "exact_excerpt": "Anything can have aspects, skills, stunts, stress tracks, and consequences if you need it to.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/official__Fate-Core-SRD-CC.txt",
+    "line": 2474
+  },
+  {
+    "url": "https://fate-srd.com/downloads/CC-BY-SRDs.zip",
+    "archive_member": "Fate-Accelerated-SRD-CC.html",
+    "claim": "FAE mooks have no consequences",
+    "exact_excerpt": "Mooks can’t take consequences.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/official__Fate-Accelerated-SRD-CC.txt",
+    "line": 460
+  },
+  {
+    "url": "https://fate-srd.com/downloads/CC-BY-SRDs.zip",
+    "archive_member": "Fate-Condensed-SRD-CC-BY.html",
+    "claim": "Condensed stress differs",
+    "exact_excerpt": "Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/official__Fate-Condensed-SRD-CC-BY.txt",
+    "line": 195
+  },
+  {
+    "url": "https://fate-srd.com/downloads/CC-BY-SRDs.zip",
+    "archive_member": "FST-SRD-CC.html",
+    "claim": "Toolkit custom fractal competencies",
+    "exact_excerpt": "they don’t have to be the same ones the PCs get.",
+    "source_file": "/opt/data/cache/scratch/card-research-fate/official__FST-SRD-CC.txt",
+    "line": 36
+  }
+]

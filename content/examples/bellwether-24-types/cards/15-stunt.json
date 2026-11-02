@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "Hear the Missing Beat",
+  "subtitle": "Stunt · Original Fate Core stunt proposal · included on Ira's sheet",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Rule text",
+      "value": "Gain +2 to Notice when creating an advantage to identify disrupted timing in a repetitive mechanism after listening to one complete cycle."
+    },
+    {
+      "label": "Scope",
+      "value": "One skill: Notice. One action: create an advantage. One circumstance: a complete observed cycle of a repetitive mechanism. No bonus to attacks, general detection, testimony or every temporal problem."
+    },
+    {
+      "label": "Example",
+      "value": "Listen to the collection engine and identify a double-counted interval. A successful action might establish A Missing Beat Between Signatures, with the normal outcome's free invoke allocation."
+    },
+    {
+      "label": "Limits / cost",
+      "value": "Listening takes the fictional time the cycle requires. Costs one stunt allocation; no separate fate-point activation cost. This is one of Ira's three free starting stunts, not a fourth."
+    },
+    {
+      "label": "Review",
+      "value": "Approve the trigger and relevance with the table. The fiction must actually contain disrupted timing; the stunt is not permission to create evidence retroactively."
+    }
+  ]
+}

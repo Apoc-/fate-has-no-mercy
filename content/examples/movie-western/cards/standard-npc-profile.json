@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "kind": "npc",
+  "title": "Clara Bell",
+  "subtitle": "Standard NPC · Profile",
+  "tags": [
+    "Movie Western",
+    "GM"
+  ],
+  "fields": [
+    {
+      "label": "High Concept",
+      "value": "Die Wirtin hört mehr, als ihre Gäste erzählen"
+    },
+    {
+      "label": "Trouble",
+      "value": "Mein Bruder unterschrieb für den falschen Mann"
+    },
+    {
+      "label": "Appearance / Manner",
+      "value": "Hochgekrempelte Ärmel, ein Bleistift hinter dem Ohr und ein stets sauberer Fleck auf der Theke. Stellt ein Glas hin, bevor sie eine unangenehme Frage stellt."
+    },
+    {
+      "label": "Want / Obstacle",
+      "value": "Clara will ihren Bruder Tom, den Heizer des Abendzugs, lebend aus Vanes Diensten lösen. Tom half beim Transport einer gefälschten Besitzurkunde und fürchtet, als einziger Täter verurteilt zu werden."
+    },
+    {
+      "label": "Offer / Boundary",
+      "value": "Bietet ein Zimmer über der Hintertreppe, Nachrichten aus dem Saloon und eine Begegnung mit Tom ohne Vanes Vorarbeiter. Sie versteckt Zeugen, aber keine Waffe bei einem ahnungslosen Gast."
+    },
+    {
+      "label": "Relationship",
+      "value": "Vane hält den Schuldschein des Saloons; Clara kennt dafür seine nächtlichen Besucher. Rusk durfte einmal bei ihr anschreiben und schämt sich, ihr heute die Augen zu verweigern."
+    },
+    {
+      "label": "Skills / Stress",
+      "value": "Rapport +2, Notice +1; unlisted +0. Stress [1][1], mehrere Ein-Punkt-Kästchen pro Treffer möglich. Consequences: None. Stunts: None. Leichtgewichtiges minor-NPC-Profil, keine automatisch abgeleiteten PC-Tracks."
+    },
+    {
+      "label": "GM Knowledge",
+      "value": "Clara besitzt eine Kohlepapier-Abschrift des Frachtauftrags, auf dem Vanes Buchhalter die Übergabe des Landregisters anordnet. Das belegt den geplanten Zugriff, nicht allein den ursprünglichen Landbetrug. Sie zeigt die Abschrift bei glaubhafter Aussicht auf Schutz für Tom."
+    },
+    {
+      "label": "Play Hook",
+      "value": "Als die Gäste ihr Kleingeld zählen, schiebt Clara einen Fahrplan über die Theke: »Der Zug kommt bei Sonnenuntergang. Mein Bruder sitzt auf der Lok. Und die Männer am Bahnhof warten nicht auf Fahrgäste.«"
+    }
+  ]
+}

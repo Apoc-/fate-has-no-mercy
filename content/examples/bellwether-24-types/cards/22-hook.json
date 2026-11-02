@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "Your Name, Tomorrow's Roll",
+  "subtitle": "Hook · Immediate actionable opening",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Say at the table",
+      "value": "A woman in a red collector's coat puts a warrant on your table. Your name is beneath tomorrow's date. The consent signature is not yours. 'I delivered one of these yesterday,' she says. 'I won't deliver this one.'"
+    },
+    {
+      "label": "Offer / urgency",
+      "value": "Nera offers the duplicate and a way into the auction gallery if the PCs protect her testimony. The warning chime sounds before midnight; the collection is later, at the thirteenth bell."
+    },
+    {
+      "label": "Choices",
+      "value": "Verify the warrant, protect Nera, approach the Office, investigate the debtor named beside you, or refuse and seek another way to keep your name off the roll."
+    },
+    {
+      "label": "If declined",
+      "value": "Nera approaches auditor Ansel. Her attempt can change the situation without forcing the PCs to accept the job or punishing refusal with unavoidable failure."
+    },
+    {
+      "label": "GM placement",
+      "value": "Connect a borrowed hour or named debtor to a PC only with player agreement. The forged signature is a problem to investigate, not permission to rewrite a character's agreed past."
+    }
+  ]
+}

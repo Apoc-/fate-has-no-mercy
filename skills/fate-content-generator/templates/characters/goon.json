@@ -1,0 +1,31 @@
+{
+  "template": {
+    "id": "goon",
+    "label": "Goon / Mook",
+    "ruleset": "condensed",
+    "native_role": "minor NPC",
+    "content_language": "de",
+    "terminology_language": "en",
+    "status": "base template; replace short placeholders",
+    "max_fields": 4,
+    "target_max_words": 40,
+    "skills": {"Fight": 1},
+    "stress": [{"domain": "lightweight", "capacities": [1], "mark_policy": "multiple_boxes_per_hit"}],
+    "consequences": [],
+    "stunt_slots": 0,
+    "fate_point_policy": "shared GM scene pool; never repeat this on the disposable card"
+  },
+  "card": {
+    "version": 1,
+    "kind": "npc",
+    "title": "<Rolle oder Name>",
+    "subtitle": "Goon / Mook",
+    "tags": [],
+    "fields": [
+      {"label": "Aspect", "value": "<Eine kurze deutsche Phrase>"},
+      {"label": "Skills", "value": "Fight +1; unlisted +0"},
+      {"label": "Stress", "value": "[1]"},
+      {"label": "Behaviour", "value": "<Eine Handlung und ein Grund aufzuhören>"}
+    ]
+  }
+}

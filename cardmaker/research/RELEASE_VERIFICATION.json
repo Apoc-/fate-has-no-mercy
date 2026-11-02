@@ -1,0 +1,20 @@
+{
+  "status": "historical_verification",
+  "record_scope": "Historical development checks before repository collection and the later browser seed-precision fix. Not a current release certification; test totals and no-commit status below describe that earlier run.",
+  "test_command": "python -m unittest discover -s cardmaker -t . -v",
+  "tests_passed": 28,
+  "parent_additional_matrix_drafts": 720,
+  "matrix_checks": ["deterministic replay", "semantic source validation", "public projection allowlist and secret exclusion", "presentation reroll preserves causal core and mechanics"],
+  "syntax_checks": ["node --check cardmaker/app.js", "python -m compileall -q cardmaker", "git diff --check"],
+  "browser_verification": ["NPC generation", "named Unicode entity and linked place", "640-pixel SVG preview decoding", "GM-to-public projection", "GM secret excluded from public form", "GM source backup disabled in public view"],
+  "rendered_artifacts": ["JSON", "semantic GM draft", "plain text", "SVG", "PNG"],
+  "review": {
+    "initial_result": "failed with two reproduced failure-path defects",
+    "fixed_issues": ["atomic editor/source/view/preview replacement prevents public-labelled GM fields after preview failure", "deep JSON decoder recursion returns HTTP 400 rather than dropping connection"],
+    "regressions": "51 Node-harness failure scenarios; 20000-level nested JSON on seven POST routes with healthy follow-up generation",
+    "final_independent_verdict": {"passed": true, "security_concerns": [], "logic_errors": [], "suggestions": []},
+    "scope": "Initial whole-feature review plus fresh targeted fix review, both inspecting actual code; final reviewer independently exercised failure paths and all 28 tests"
+  },
+  "limits": ["Nine original authored bundles with deliberately narrow situation diversity", "Context is an unparsed note, not natural-language constraint enforcement", "No fractal location generation, campaign-wide identity registry, encounter-balance guarantee, or custom mechanics-pack importer", "Compact GM output can still be tall; no fixed-size multi-card pagination", "Generic legacy card imports cannot be automatically classified public/GM", "Form edits are separate from semantic source backups", "No destination-app import verification", "Parent bulk citation import and quote-check did not run after approval timeout; specialist source records and existing Fate verification manifest retained"],
+  "repository_changes": "cardmaker/ only; no commits, pushes, public deployment, or charsheet/workflow changes"
+}

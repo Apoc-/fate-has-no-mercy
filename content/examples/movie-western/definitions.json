@@ -1,0 +1,140 @@
+{
+  "title": "Mercy Crossing — Staub vor dem letzten Zug",
+  "theme": "movie western",
+  "ruleset": "condensed",
+  "content_language": "de",
+  "terminology_language": "en",
+  "edition": "GM-Bundle; eigenständige Filmwestern-Fiktion, kein historischer Bericht und kein übernommener Kampagnenkanon.",
+  "premise": "Der Abendzug nach Mercy Crossing führt ein beglaubigtes Landregister mit, das Silas Vanes betrügerische Wasserrechte widerlegt. Vane will die Urkunde am Bahnhof abfangen. Die PCs können den Zug schützen, den Beleg vorher sichern oder Vane auf anderem Weg die Kontrolle über die Stadt nehmen. Ein Duell ist möglich, aber keine vorgeschriebene Lösung.",
+  "tone": "Ernster, staubiger Ensemble-Western: lange Blicke, knarrende Veranden, ein nahender Zug und Gewalt mit Folgen. Keine übernatürlichen Kräfte, keine ethnischen Feindbilder, keine festgeschriebene Filmhandlung.",
+  "definitions": [
+    {
+      "id": "goon",
+      "template": "Goon / Mook",
+      "native_role": "minor NPC",
+      "name": "Wade »Staub« Rusk",
+      "kind": "npc",
+      "subtitle": "Bezahlter Schütze am Bahnhof",
+      "skills": {"Shoot": 1},
+      "stress": [{"domain":"lightweight","capacities":[1],"mark_policy":"multiple_boxes_per_hit"}],
+      "consequences": [],
+      "stunts": [],
+      "fields": [
+        ["High Concept", "Bezahlter Schütze, kein bezahlter Toter"],
+        ["Appearance / Manner", "Ein staubgrauer Mantel, blank geriebene Stiefelspitzen und ein Gewehrriemen, an dem er ständig zupft. Spricht erst, nachdem sein Vorarbeiter gesprochen hat."],
+        ["Goal", "Die Güterschuppentür bis zur Ankunft des Abendzugs bewachen. Für einen echten Schusswechsel hat er sich nicht bezahlen lassen."],
+        ["Skills", "Shoot +1; unlisted +0."],
+        ["Stress / Consequences / Stunts", "Stress [1]. Alle Kästchen haben Wert 1; mehrere vorhandene Kästchen dürfen denselben Treffer abfangen. Consequences: None. Stunts: None. Mehr Shifts als abfangbarer Stress führen zu Taken Out, nicht automatisch zum Tod."],
+        ["Break Condition", "Rusk zieht sich zurück, wenn er ohne Deckung allein gelassen wird, Vanes Auftrag offen als Urkundenraub benannt wird oder er einen sicheren Ausweg erhält. Eine Flucht ist eine mögliche Reaktion, kein erzwungenes Ergebnis jedes Gesprächs."],
+        ["GM Use", "Telegraphiere seine Unsicherheit über den Griff am Gewehrriemen. Drohen, Bestechen, Vorbeischleichen oder Verhandeln sind ebenso denkbar wie Gewalt. Kein eigener Refresh-Vorrat; NPC-Invokes kommen aus dem GM scene pool."]
+      ]
+    },
+    {
+      "id": "standard-npc",
+      "template": "Standard NPC",
+      "native_role": "minor NPC",
+      "name": "Clara Bell",
+      "kind": "npc",
+      "subtitle": "Wirtin des Last Lantern Saloon",
+      "skills": {"Rapport": 2, "Notice": 1},
+      "stress": [{"domain":"lightweight","capacities":[1,1],"mark_policy":"multiple_boxes_per_hit"}],
+      "consequences": [],
+      "stunts": [],
+      "fields": [
+        ["High Concept", "Die Wirtin hört mehr, als ihre Gäste erzählen"],
+        ["Trouble", "Mein Bruder unterschrieb für den falschen Mann"],
+        ["Appearance / Manner", "Hochgekrempelte Ärmel, ein Bleistift hinter dem Ohr und ein stets sauberer Fleck auf der Theke. Stellt ein Glas hin, bevor sie eine unangenehme Frage stellt."],
+        ["Want / Obstacle", "Clara will ihren Bruder Tom, den Heizer des Abendzugs, lebend aus Vanes Diensten lösen. Tom half beim Transport einer gefälschten Besitzurkunde und fürchtet, als einziger Täter verurteilt zu werden."],
+        ["Offer / Boundary", "Bietet ein Zimmer über der Hintertreppe, Nachrichten aus dem Saloon und eine Begegnung mit Tom ohne Vanes Vorarbeiter. Sie versteckt Zeugen, aber keine Waffe bei einem ahnungslosen Gast."],
+        ["Relationship", "Vane hält den Schuldschein des Saloons; Clara kennt dafür seine nächtlichen Besucher. Rusk durfte einmal bei ihr anschreiben und schämt sich, ihr heute die Augen zu verweigern."],
+        ["Skills / Stress", "Rapport +2, Notice +1; unlisted +0. Stress [1][1], mehrere Ein-Punkt-Kästchen pro Treffer möglich. Consequences: None. Stunts: None. Leichtgewichtiges minor-NPC-Profil, keine automatisch abgeleiteten PC-Tracks."],
+        ["GM Knowledge", "Clara besitzt eine Kohlepapier-Abschrift des Frachtauftrags, auf dem Vanes Buchhalter die Übergabe des Landregisters anordnet. Das belegt den geplanten Zugriff, nicht allein den ursprünglichen Landbetrug. Sie zeigt die Abschrift bei glaubhafter Aussicht auf Schutz für Tom."],
+        ["Play Hook", "Als die Gäste ihr Kleingeld zählen, schiebt Clara einen Fahrplan über die Theke: »Der Zug kommt bei Sonnenuntergang. Mein Bruder sitzt auf der Lok. Und die Männer am Bahnhof warten nicht auf Fahrgäste.«"]
+      ]
+    },
+    {
+      "id": "full-character",
+      "template": "Full Character / PC",
+      "native_role": "PC",
+      "name": "Elena »Falke« Marlow",
+      "kind": "character",
+      "subtitle": "Ehemalige Gesetzeshüterin mit einer offenen Rechnung",
+      "skills": {"Shoot":4,"Fight":3,"Notice":3,"Athletics":2,"Will":2,"Rapport":2,"Physique":1,"Crafts":1,"Empathy":1,"Investigate":1},
+      "stress": [
+        {"domain":"physical","capacities":[1,1,1,1],"derived_from":"Physique","mark_policy":"multiple_boxes_per_hit"},
+        {"domain":"mental","capacities":[1,1,1,1],"derived_from":"Will","mark_policy":"multiple_boxes_per_hit"}
+      ],
+      "consequences": [
+        {"severity":"mild","capacity":2,"domain":"any","aspect":null},
+        {"severity":"moderate","capacity":4,"domain":"any","aspect":null},
+        {"severity":"severe","capacity":6,"domain":"any","aspect":null}
+      ],
+      "refresh":3,
+      "free_stunt_slots":3,
+      "paid_stunts":0,
+      "relationship_status":"Aspect-Vorschlag ausgefüllt; Bezug zu einem anderen PC beim Spielstart gemeinsam zuordnen.",
+      "stunts": [
+        {"name":"Ruhige Hand","skill":"Shoot","action":"Attack","condition":"auf ein entferntes Ziel aus einer festen, gedeckten Position, ohne in dieser Exchange die eigene Position gewechselt zu haben","bonus":2},
+        {"name":"Bevor der Staub sich legt","skill":"Notice","action":"Create an Advantage","condition":"wenn Elena bei einer offenen bewaffneten Konfrontation gezielt die Waffenhand eines sichtbaren Gegenübers beobachtet","bonus":2},
+        {"name":"Diese Tür bleibt zu","skill":"Fight","action":"Defend","condition":"gegen einen Nahkampfangriff, während Elena einen engen Durchgang körperlich versperrt","bonus":2}
+      ],
+      "fields": [
+        ["High Concept", "Ehemalige Gesetzeshüterin mit einem zu langen Gedächtnis"],
+        ["Trouble", "Ich schulde dem falschen Mann mein Leben"],
+        ["Relationship", "Dein Alibi ist auch meines. Vorschlag für die Verbindung zu einem anderen PC: Elena gab dieser Person ein Alibi, das beide gefährden würde, wenn die Wahrheit herauskäme. Partner und Einzelheiten beim Spielstart gemeinsam festlegen; kein anderer PC wird vorgegeben."],
+        ["Free Aspect 1 / Free Aspect 2", "Mein Wort gilt länger als mein Abzeichen / Ich schieße nicht für fremde Rechnungen"],
+        ["Personality / Goal", "Elena wirkt still, nicht kalt: Sie merkt sich Namen und gibt Zurückweichenden Raum. Sie will die Zeugen und den Beleg nach Mercy Crossing bringen, bevor Vane aus einem Diebstahl ein offizielles Versehen macht."],
+        ["Background / Boundary", "Nach einer vertuschten Erschießung legte sie ihr Abzeichen ab. Vane bezahlte damals ihren Arzt; sie weiß noch nicht, ob er sie aus Menschlichkeit oder als spätere Schuldnerin rettete. Sie schießt weder auf Wehrlose noch auf Menschen, die bereits aufgeben."],
+        ["Skills", "Great (+4): Shoot. Good (+3): Fight, Notice. Fair (+2): Athletics, Will, Rapport. Average (+1): Physique, Crafts, Empathy, Investigate. Unlisted +0."],
+        ["Stunt · Ruhige Hand", "+2 auf Shoot für Attack gegen ein entferntes Ziel aus einer festen, gedeckten Position, sofern Elena in dieser Exchange ihre Position nicht gewechselt hat. Kein allgemeiner Bonus auf jeden Schuss."],
+        ["Stunt · Bevor der Staub sich legt", "+2 auf Notice für Create an Advantage, wenn Elena bei einer offenen bewaffneten Konfrontation gezielt die Waffenhand eines sichtbaren Gegenübers beobachtet. Der Vorteil und seine Free Invokes folgen dem normalen Ergebnis der Action."],
+        ["Stunt · Diese Tür bleibt zu", "+2 auf Fight für Defend gegen einen Nahkampfangriff, während Elena einen engen Durchgang körperlich versperrt. Gilt nicht gegen Shoot und nicht im freien Gelände."],
+        ["Physical Stress / Mental Stress", "Physical [1][1][1][1] aus Physique +1. Mental [1][1][1][1] aus Will +2. Jedes Kästchen fängt 1 Shift ab; mehrere dürfen denselben Treffer abfangen."],
+        ["Consequences / Refresh", "mild 2 [empty]; moderate 4 [empty]; severe 6 [empty], gemeinsame Slots. Refresh 3; drei freie Stunts, keine zusätzlich gekauften. Alle Stunts sind neue Vorschläge für die Spielrunde."],
+        ["Opening Choice", "Clara bietet Elena die Abschrift, aber verlangt zuerst ein Versprechen für Tom. Elena kann Schutz zusagen, Beweise getrennt sichern oder Vane öffentlich auf seine frühere Hilfe ansprechen. Die Entscheidung gehört dem Spieler."]
+      ]
+    },
+    {
+      "id":"major-opponent",
+      "template":"Major Opponent / BBEG",
+      "native_role":"major NPC",
+      "name":"Silas Vane",
+      "kind":"npc",
+      "subtitle":"Ranchbesitzer, Bahnaktionär und Herr über fremde Schulden",
+      "skills":{"Resources":5,"Contacts":4,"Will":4,"Deceive":3,"Shoot":3,"Physique":3,"Notice":2,"Fight":2,"Rapport":2,"Athletics":2},
+      "stress":[
+        {"domain":"physical","capacities":[1,1,1,1,1,1],"derived_from":"Physique","mark_policy":"multiple_boxes_per_hit"},
+        {"domain":"mental","capacities":[1,1,1,1,1,1],"derived_from":"Will","mark_policy":"multiple_boxes_per_hit"}
+      ],
+      "consequences":[
+        {"severity":"mild","capacity":2,"domain":"any","aspect":null},
+        {"severity":"moderate","capacity":4,"domain":"any","aspect":null},
+        {"severity":"severe","capacity":6,"domain":"any","aspect":null}
+      ],
+      "opposition_assumptions":{"relevant_pc_peak":4,"party_size":null,"balance_claim":false},
+      "fate_point_policy":"shared GM scene pool; no private Refresh purse",
+      "automatic_extra_turns":false,
+      "stunts":[
+        {"name":"Alles hat seinen Preis","skill":"Resources","action":"Create an Advantage","condition":"wenn Vane vor einer Operation konkret benannte Transportmittel, Vorräte oder Unterkünfte für seine Leute beschafft","bonus":2},
+        {"name":"Meine Leute stehen überall","skill":"Contacts","action":"Overcome","condition":"wenn Vane entlang seiner Bahnstrecke einen bereits von ihm bezahlten Mitarbeiter oder Informanten ausfindig macht","bonus":2},
+        {"name":"Die Wahrheit steht auf der Quittung","skill":"Deceive","action":"Create an Advantage","condition":"wenn Vane schriftliche Geschäftsunterlagen als Alibi für eine konkret benannte rechtswidrige Handlung präpariert","bonus":2}
+      ],
+      "fields":[
+        ["High Concept","Der Mann, dem die Stadt auf dem Papier gehört"],
+        ["Trouble","Ich ertrage keinen Zeugen, den ich nicht kaufen kann"],
+        ["Relationship / Free Aspects","Die Stadt schuldet mir ihre Dächer / Meine Unterschrift zahlt die Sterne / Selbst der Arzt stellte mir ihre Rechnung"],
+        ["Agenda / Methods","Vane will das beglaubigte Landregister vor einer öffentlichen Übergabe abfangen und durch eine unvollständige Kopie ersetzen. Mit Schuldscheinen, Aufträgen und gekauften Zeugen lässt er Gewalt wie fremdes Handeln aussehen."],
+        ["Personality / Connection","Er bietet zuerst einen Stuhl, dann einen Vertrag und zuletzt einen Ausweg an. Elena verdankt ihm eine frühere Arztrechnung; Clara schuldet ihm Geld. Er hält Dankbarkeit und Eigentum für dasselbe, behauptet aber ernsthaft, ohne seine Investitionen gäbe es die Stadt nicht."],
+        ["Skills","Resources +5; Contacts +4, Will +4; Deceive +3, Shoot +3, Physique +3; Notice +2, Fight +2, Rapport +2, Athletics +2. Unlisted +0. Beispielprofil für PC-Spitzen um +4, keine pauschale Balance-Garantie."],
+        ["Stunt · Alles hat seinen Preis","+2 auf Resources für Create an Advantage, wenn Vane vor einer Operation konkret benannte Transportmittel, Vorräte oder Unterkünfte beschafft. Benötigt eine Action und reale Beschaffungsmöglichkeiten; erschafft keine Leute oder Vorräte augenblicklich."],
+        ["Stunt · Meine Leute stehen überall","+2 auf Contacts für Overcome, um entlang seiner Bahnstrecke einen bereits bezahlten Mitarbeiter oder Informanten ausfindig zu machen. Kein Fernbefehl, keine zusätzliche Action und kein Schutz vor dessen Gewissensentscheidung."],
+        ["Stunt · Die Wahrheit steht auf der Quittung","+2 auf Deceive für Create an Advantage beim Präparieren schriftlicher Geschäftsunterlagen als Alibi für eine bestimmte rechtswidrige Handlung. Die Unterlagen müssen zugänglich sein; Zeugen und echte Gegenbelege bleiben Gegenmaßnahmen."],
+        ["Physical Stress / Mental Stress","Physical [1][1][1][1][1][1] aus Physique +3. Mental [1][1][1][1][1][1] aus Will +4. Nur Ein-Punkt-Kästchen; mehrere pro Treffer möglich. Resources +5 verleiht keinen zusätzlichen mild Slot."],
+        ["Consequences / Fate Points","mild 2 [empty]; moderate 4 [empty]; severe 6 [empty], gemeinsame Slots. NPC-Invokes aus dem GM scene pool. Kein eigener PC-Refresh-Vorrat, keine automatischen Zusatzaktionen. Alle Stunts sind neue Vorschläge für die Spielrunde."],
+        ["Weaknesses / Counterplay","Erstens: Claras Frachtabschrift verbindet seine Firma mit dem geplanten Zugriff; zusammen mit dem beglaubigten Register und einer unabhängigen Zeugenaussage lässt sich sein öffentliches Alibi angreifen. Zweitens: Seine Männer kämpfen für Lohn. Eine abgesicherte Aussage, ein sicherer Rückzug oder ein echter Gegenauftrag kann ihre Bindung lösen. Keiner dieser Wege erzwingt automatisch einen Erfolg."],
+        ["If Unopposed","Vanes Vorarbeiter versucht am Bahnhof zuerst Bestechung und einen falschen Frachtbefehl, danach einen verdeckten Diebstahl. Ein offener Angriff gefährdet Vanes Ruf und bleibt Eskalation, kein unvermeidlicher Filmhöhepunkt."],
+        ["Concession / Escape","Bei drohender öffentlicher Entlarvung könnte Vane das echte Register herausgeben, die Wasseransprüche vorläufig aufgeben und im Gegenzug eine garantierte Gerichtsverhandlung statt einer Lynchjustiz verlangen. Vor dem relevanten Roll aushandeln; kein automatisches Entkommen und kein einseitiges Streichen bereits etablierter Folgen."]
+      ]
+    }
+  ]
+}

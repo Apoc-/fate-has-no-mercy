@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "kind": "character",
+  "title": "Elena »Falke« Marlow",
+  "subtitle": "Full Character / PC · Stunts / GM Notes",
+  "tags": [
+    "Movie Western",
+    "GM"
+  ],
+  "fields": [
+    {
+      "label": "Stunt · Ruhige Hand",
+      "value": "+2 auf Shoot für Attack gegen ein entferntes Ziel aus einer festen, gedeckten Position, sofern Elena in dieser Exchange ihre Position nicht gewechselt hat. Kein allgemeiner Bonus auf jeden Schuss."
+    },
+    {
+      "label": "Stunt · Bevor der Staub sich legt",
+      "value": "+2 auf Notice für Create an Advantage, wenn Elena bei einer offenen bewaffneten Konfrontation gezielt die Waffenhand eines sichtbaren Gegenübers beobachtet. Der Vorteil und seine Free Invokes folgen dem normalen Ergebnis der Action."
+    },
+    {
+      "label": "Stunt · Diese Tür bleibt zu",
+      "value": "+2 auf Fight für Defend gegen einen Nahkampfangriff, während Elena einen engen Durchgang körperlich versperrt. Gilt nicht gegen Shoot und nicht im freien Gelände."
+    },
+    {
+      "label": "Opening Choice",
+      "value": "Clara bietet Elena die Abschrift, aber verlangt zuerst ein Versprechen für Tom. Elena kann Schutz zusagen, Beweise getrennt sichern oder Vane öffentlich auf seine frühere Hilfe ansprechen. Die Entscheidung gehört dem Spieler."
+    }
+  ]
+}

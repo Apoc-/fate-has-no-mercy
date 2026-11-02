@@ -1,0 +1,206 @@
+{
+  "title": "Bellwether: The City That Borrowed Tomorrow",
+  "expected_count": 24,
+  "collected_count": 24,
+  "entries": [
+    {
+      "number": 1,
+      "type": "Character",
+      "title": "Ira Venn",
+      "source": "cards/01-character.json",
+      "width": 640,
+      "height": 1226
+    },
+    {
+      "number": 2,
+      "type": "NPC",
+      "title": "Nera Quill",
+      "source": "cards/02-npc.json",
+      "width": 640,
+      "height": 1148
+    },
+    {
+      "number": 3,
+      "type": "Creature",
+      "title": "The Margin Hound",
+      "source": "cards/03-creature.json",
+      "width": 640,
+      "height": 1200
+    },
+    {
+      "number": 4,
+      "type": "Adversary",
+      "title": "Commissioner Orren Vale",
+      "source": "cards/04-adversary.json",
+      "width": 640,
+      "height": 1304
+    },
+    {
+      "number": 5,
+      "type": "Location",
+      "title": "The Archive of Unspent Days",
+      "source": "cards/05-location.json",
+      "width": 640,
+      "height": 1174
+    },
+    {
+      "number": 6,
+      "type": "Faction",
+      "title": "The Unwritten",
+      "source": "cards/06-faction.json",
+      "width": 640,
+      "height": 992
+    },
+    {
+      "number": 7,
+      "type": "Organization",
+      "title": "The Office of Civic Time",
+      "source": "cards/07-organization.json",
+      "width": 640,
+      "height": 1122
+    },
+    {
+      "number": 8,
+      "type": "Item",
+      "title": "Ledgerglass",
+      "source": "cards/08-item.json",
+      "width": 640,
+      "height": 888
+    },
+    {
+      "number": 9,
+      "type": "Vehicle",
+      "title": "The Mothlight",
+      "source": "cards/09-vehicle.json",
+      "width": 640,
+      "height": 1044
+    },
+    {
+      "number": 10,
+      "type": "Power",
+      "title": "Echo of the Last Minute",
+      "source": "cards/10-power.json",
+      "width": 640,
+      "height": 1044
+    },
+    {
+      "number": 11,
+      "type": "Extra",
+      "title": "The Clockwork Witness",
+      "source": "cards/11-extra.json",
+      "width": 640,
+      "height": 1096
+    },
+    {
+      "number": 12,
+      "type": "Aspect",
+      "title": "I Owe Tomorrow to Someone I Haven't Met",
+      "source": "cards/12-aspect.json",
+      "width": 640,
+      "height": 1000
+    },
+    {
+      "number": 13,
+      "type": "Skill",
+      "title": "Chronometry",
+      "source": "cards/13-skill.json",
+      "width": 640,
+      "height": 966
+    },
+    {
+      "number": 14,
+      "type": "Approach",
+      "title": "Careful",
+      "source": "cards/14-approach.json",
+      "width": 640,
+      "height": 966
+    },
+    {
+      "number": 15,
+      "type": "Stunt",
+      "title": "Hear the Missing Beat",
+      "source": "cards/15-stunt.json",
+      "width": 640,
+      "height": 1018
+    },
+    {
+      "number": 16,
+      "type": "Scene",
+      "title": "The Auction of the Missing Hour",
+      "source": "cards/16-scene.json",
+      "width": 640,
+      "height": 1148
+    },
+    {
+      "number": 17,
+      "type": "Encounter",
+      "title": "The Hound at the Turnstile",
+      "source": "cards/17-encounter.json",
+      "width": 640,
+      "height": 1148
+    },
+    {
+      "number": 18,
+      "type": "Mystery",
+      "title": "Who Signed for the Unborn Hour?",
+      "source": "cards/18-mystery.json",
+      "width": 640,
+      "height": 1200
+    },
+    {
+      "number": 19,
+      "type": "Adventure",
+      "title": "The Night Without Tomorrow",
+      "source": "cards/19-adventure.json",
+      "width": 640,
+      "height": 1330
+    },
+    {
+      "number": 20,
+      "type": "Setting",
+      "title": "Bellwether",
+      "source": "cards/20-setting.json",
+      "width": 640,
+      "height": 1330
+    },
+    {
+      "number": 21,
+      "type": "Campaign",
+      "title": "A Season of Stolen Tomorrows",
+      "source": "cards/21-campaign.json",
+      "width": 640,
+      "height": 1304
+    },
+    {
+      "number": 22,
+      "type": "Hook",
+      "title": "Your Name, Tomorrow's Roll",
+      "source": "cards/22-hook.json",
+      "width": 640,
+      "height": 992
+    },
+    {
+      "number": 23,
+      "type": "Clue",
+      "title": "The Stamp Beneath the Signature",
+      "source": "cards/23-clue.json",
+      "width": 640,
+      "height": 1148
+    },
+    {
+      "number": 24,
+      "type": "Random table",
+      "title": "What Interrupts the Next Bell?",
+      "source": "cards/24-random-table.json",
+      "width": 640,
+      "height": 1226
+    }
+  ],
+  "checks": [
+    "one of every requested type",
+    "unique slugs/titles",
+    "valid v1 cards",
+    "24 PNG/SVG/text exports",
+    "Core PC/main skill pyramids and stress derivations"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "template": {
+    "id": "standard-npc",
+    "label": "Standard NPC",
+    "ruleset": "condensed",
+    "native_role": "minor NPC",
+    "content_language": "de",
+    "terminology_language": "en",
+    "status": "base template; keep only what is useful now",
+    "max_fields": 5,
+    "target_max_words": 65,
+    "skills": {"Rapport": 2, "Notice": 1},
+    "stress": [{"domain": "lightweight", "capacities": [1, 1], "mark_policy": "multiple_boxes_per_hit"}],
+    "print_stress_only_if_conflict_expected": true,
+    "consequences": [],
+    "stunt_slots": 0,
+    "fate_point_policy": "shared GM scene pool; no private Refresh"
+  },
+  "card": {
+    "version": 1,
+    "kind": "npc",
+    "title": "<Name>",
+    "subtitle": "<Kurze Rolle>",
+    "tags": [],
+    "fields": [
+      {"label": "Aspect", "value": "<Eine sofort spielbare Eigenschaft>"},
+      {"label": "Skills", "value": "Rapport +2, Notice +1; unlisted +0"},
+      {"label": "Hook", "value": "<Will etwas Konkretes und bietet etwas Nützliches>"}
+    ]
+  }
+}

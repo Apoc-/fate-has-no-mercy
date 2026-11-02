@@ -1,0 +1,2 @@
+# Optional: only PNG export needs this dependency.
+Pillow>=10.1

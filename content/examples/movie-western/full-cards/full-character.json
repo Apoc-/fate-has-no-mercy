@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "kind": "character",
+  "title": "Elena »Falke« Marlow",
+  "subtitle": "Full Character / PC · Fate Condensed",
+  "tags": [
+    "Movie Western",
+    "GM"
+  ],
+  "fields": [
+    {
+      "label": "High Concept",
+      "value": "Ehemalige Gesetzeshüterin mit einem zu langen Gedächtnis"
+    },
+    {
+      "label": "Trouble",
+      "value": "Ich schulde dem falschen Mann mein Leben"
+    },
+    {
+      "label": "Relationship",
+      "value": "Dein Alibi ist auch meines. Vorschlag für die Verbindung zu einem anderen PC: Elena gab dieser Person ein Alibi, das beide gefährden würde, wenn die Wahrheit herauskäme. Partner und Einzelheiten beim Spielstart gemeinsam festlegen; kein anderer PC wird vorgegeben."
+    },
+    {
+      "label": "Free Aspect 1 / Free Aspect 2",
+      "value": "Mein Wort gilt länger als mein Abzeichen / Ich schieße nicht für fremde Rechnungen"
+    },
+    {
+      "label": "Personality / Goal",
+      "value": "Elena wirkt still, nicht kalt: Sie merkt sich Namen und gibt Zurückweichenden Raum. Sie will die Zeugen und den Beleg nach Mercy Crossing bringen, bevor Vane aus einem Diebstahl ein offizielles Versehen macht."
+    },
+    {
+      "label": "Background / Boundary",
+      "value": "Nach einer vertuschten Erschießung legte sie ihr Abzeichen ab. Vane bezahlte damals ihren Arzt; sie weiß noch nicht, ob er sie aus Menschlichkeit oder als spätere Schuldnerin rettete. Sie schießt weder auf Wehrlose noch auf Menschen, die bereits aufgeben."
+    },
+    {
+      "label": "Skills",
+      "value": "Great (+4): Shoot. Good (+3): Fight, Notice. Fair (+2): Athletics, Will, Rapport. Average (+1): Physique, Crafts, Empathy, Investigate. Unlisted +0."
+    },
+    {
+      "label": "Stunt · Ruhige Hand",
+      "value": "+2 auf Shoot für Attack gegen ein entferntes Ziel aus einer festen, gedeckten Position, sofern Elena in dieser Exchange ihre Position nicht gewechselt hat. Kein allgemeiner Bonus auf jeden Schuss."
+    },
+    {
+      "label": "Stunt · Bevor der Staub sich legt",
+      "value": "+2 auf Notice für Create an Advantage, wenn Elena bei einer offenen bewaffneten Konfrontation gezielt die Waffenhand eines sichtbaren Gegenübers beobachtet. Der Vorteil und seine Free Invokes folgen dem normalen Ergebnis der Action."
+    },
+    {
+      "label": "Stunt · Diese Tür bleibt zu",
+      "value": "+2 auf Fight für Defend gegen einen Nahkampfangriff, während Elena einen engen Durchgang körperlich versperrt. Gilt nicht gegen Shoot und nicht im freien Gelände."
+    },
+    {
+      "label": "Physical Stress / Mental Stress",
+      "value": "Physical [1][1][1][1] aus Physique +1. Mental [1][1][1][1] aus Will +2. Jedes Kästchen fängt 1 Shift ab; mehrere dürfen denselben Treffer abfangen."
+    },
+    {
+      "label": "Consequences / Refresh",
+      "value": "mild 2 [empty]; moderate 4 [empty]; severe 6 [empty], gemeinsame Slots. Refresh 3; drei freie Stunts, keine zusätzlich gekauften. Alle Stunts sind neue Vorschläge für die Spielrunde."
+    },
+    {
+      "label": "Opening Choice",
+      "value": "Clara bietet Elena die Abschrift, aber verlangt zuerst ein Versprechen für Tom. Elena kann Schutz zusagen, Beweise getrennt sichern oder Vane öffentlich auf seine frühere Hilfe ansprechen. Die Entscheidung gehört dem Spieler."
+    }
+  ]
+}

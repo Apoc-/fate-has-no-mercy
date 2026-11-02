@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "Who Signed for the Unborn Hour?",
+  "subtitle": "Mystery · GM mystery framework · redundant discovery routes",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Question / truth",
+      "value": "Who added unsigned citizens to tomorrow's collection roll? Vale inserted the names after hours to conceal the hospital reserve's shortfall, then countersigned his own forgery."
+    },
+    {
+      "label": "Essential conclusion",
+      "value": "The roll lacks valid consent and can be stayed without immediately stopping the hospital reserve."
+    },
+    {
+      "label": "Independent routes",
+      "value": "Archive: debtor names were added after witness certification; the posted Office rule requires fresh witnesses. Nera: her hidden receipt connects the changes to the countersigner, and she can attest no recertification occurred. Office: auditor Ansel can verify the missing fresh witness records. These are three routes, not three mandatory checks."
+    },
+    {
+      "label": "Fair complication",
+      "value": "The Unwritten's blank forms resemble the altered paper, but their watermark identifies a different batch. Reveal that distinguishing evidence; do not treat an innocent faction's style as proof."
+    },
+    {
+      "label": "Why it matters",
+      "value": "Proof opens a lawful stay, leverage over Vale, or a public hearing. It does not decide which response the PCs must choose."
+    },
+    {
+      "label": "Run it",
+      "value": "Provide obvious evidence when characters can reasonably see it. Rolls can determine speed, detail or risk; no single failed check should erase every path to the required conclusion."
+    }
+  ]
+}

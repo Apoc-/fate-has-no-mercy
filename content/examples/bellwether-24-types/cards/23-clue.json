@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "kind": "note",
+  "title": "The Stamp Beneath the Signature",
+  "subtitle": "Clue · GM clue · physical fact, discovery and implication",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Observable fact",
+      "value": "On the duplicate roll, the debtor-name ink crosses the witness stamp's dried ridge without being indented by it: the names were written after the stamp was applied. This establishes sequence, not authorship or intent."
+    },
+    {
+      "label": "Ways to discover",
+      "value": "Compare the original and carbon copy at the Archive; inspect the layering with Ledgerglass; or ask Pell to demonstrate how the Office press leaves its ridge. These are alternative channels for one clue."
+    },
+    {
+      "label": "Inference / next action",
+      "value": "Office rules require witnesses to certify the completed named roll and demand fresh certification for later name changes. The layering therefore raises a specific recertification defect; check the witness register or ask Ansel. If no fresh certification exists, request a stay. Question the countersigner or obtain the earlier impression to investigate responsibility."
+    },
+    {
+      "label": "What it does NOT prove",
+      "value": "It does not by itself identify who changed the roll. Nera's receipt and Vale's countersignature independently connect the commissioner."
+    },
+    {
+      "label": "Roll policy",
+      "value": "If the ridge is plainly demonstrated, give the fact. A relevant roll may reveal it more quickly or create an advantage for the hearing, not decide whether the entire mystery remains solvable."
+    }
+  ]
+}

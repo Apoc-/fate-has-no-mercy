@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "kind": "npc",
+  "title": "Clara Bell",
+  "subtitle": "Saloonwirtin",
+  "tags": [],
+  "fields": [
+    {
+      "label": "Aspect",
+      "value": "In meinem Saloon bleibt nichts geheim."
+    },
+    {
+      "label": "Skills",
+      "value": "Rapport +2, Notice +1; unlisted +0"
+    },
+    {
+      "label": "Hook",
+      "value": "Bietet Vanes Frachtabschrift gegen Schutz für ihren Bruder Tom."
+    }
+  ]
+}

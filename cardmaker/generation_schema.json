@@ -1,0 +1,933 @@
+{
+  "type": "object",
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "request": {
+      "$ref": "#/$defs/request"
+    },
+    "provenance": {
+      "$ref": "#/$defs/provenance"
+    },
+    "situation": {
+      "type": "object",
+      "properties": {
+        "resource": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "faction": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "npc_ref": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "location_ref": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        }
+      },
+      "required": [
+        "resource",
+        "faction",
+        "npc_ref",
+        "location_ref"
+      ],
+      "additionalProperties": false
+    },
+    "npc": {
+      "$ref": "#/$defs/npc"
+    },
+    "location": {
+      "$ref": "#/$defs/location"
+    },
+    "canon_notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 2000
+      },
+      "maxItems": 20
+    }
+  },
+  "required": [
+    "version",
+    "request",
+    "provenance",
+    "situation",
+    "npc",
+    "location",
+    "canon_notes"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:cardmaker:generation:1",
+  "title": "Cardmaker supported semantic draft v1",
+  "description": "Structural contract. Runtime additionally checks references, name locks, exact known source versions and rules preset consistency. Not an arbitrary Fate character importer.",
+  "$defs": {
+    "seed": {
+      "description": "JSON-safe integer; use a nonempty string for larger seeds.",
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 128
+        }
+      ]
+    },
+    "request": {
+      "type": "object",
+      "properties": {
+        "kind": {
+          "enum": [
+            "npc",
+            "location"
+          ]
+        },
+        "ruleset": {
+          "enum": [
+            "neutral",
+            "core",
+            "condensed",
+            "accelerated"
+          ]
+        },
+        "tier": {
+          "enum": [
+            "mook",
+            "supporting",
+            "main"
+          ]
+        },
+        "genre": {
+          "enum": [
+            "fantasy",
+            "noir",
+            "scifi"
+          ]
+        },
+        "mode": {
+          "enum": [
+            "place",
+            "scene"
+          ]
+        },
+        "seed": {
+          "$ref": "#/$defs/seed"
+        },
+        "name": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 120
+            }
+          ]
+        },
+        "location_name": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 120
+            }
+          ]
+        },
+        "context": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "minLength": 0,
+              "maxLength": 2000
+            }
+          ]
+        }
+      },
+      "required": [
+        "kind",
+        "ruleset",
+        "tier",
+        "genre",
+        "mode",
+        "seed",
+        "name",
+        "location_name",
+        "context"
+      ],
+      "additionalProperties": false
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "generator_version": {
+          "const": "1.0.0"
+        },
+        "content_version": {
+          "const": "1.0.0"
+        },
+        "seed": {
+          "$ref": "#/$defs/seed"
+        },
+        "bundle_id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "origin": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "context_policy": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "presentation_seed": {
+          "$ref": "#/$defs/seed"
+        },
+        "presentation_revision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000000
+        }
+      },
+      "required": [
+        "generator_version",
+        "content_version",
+        "seed",
+        "bundle_id",
+        "origin",
+        "context_policy",
+        "presentation_seed",
+        "presentation_revision"
+      ],
+      "additionalProperties": false
+    },
+    "aspect": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "scope": {
+          "enum": [
+            "character",
+            "scene"
+          ]
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "help": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "complication": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        }
+      },
+      "required": [
+        "text",
+        "scope",
+        "category",
+        "help",
+        "complication"
+      ],
+      "additionalProperties": false
+    },
+    "mechanics": {
+      "type": "object",
+      "properties": {
+        "ruleset": {
+          "enum": [
+            "core",
+            "condensed",
+            "accelerated"
+          ]
+        },
+        "native_tier": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "recipe": {
+          "enum": [
+            "default",
+            "Average",
+            "Fair",
+            "Good"
+          ]
+        },
+        "competencies": {
+          "type": "object",
+          "properties": {
+            "model": {
+              "enum": [
+                "skills",
+                "approaches",
+                "competence_bands"
+              ]
+            },
+            "ratings": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "integer",
+                "minimum": -2,
+                "maximum": 6
+              },
+              "minProperties": 1,
+              "maxProperties": 10
+            },
+            "default": {
+              "const": 0
+            }
+          },
+          "required": [
+            "model",
+            "ratings",
+            "default"
+          ],
+          "additionalProperties": false
+        },
+        "aspects": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/aspect"
+          },
+          "maxItems": 5
+        },
+        "stress": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "domain": {
+                "enum": [
+                  "physical",
+                  "mental",
+                  "unified"
+                ]
+              },
+              "capacities": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 4
+                },
+                "maxItems": 6
+              },
+              "mark_policy": {
+                "enum": [
+                  "one_box_per_hit",
+                  "multiple_boxes_per_hit"
+                ]
+              },
+              "derivation": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              }
+            },
+            "required": [
+              "domain",
+              "capacities",
+              "mark_policy",
+              "derivation"
+            ],
+            "additionalProperties": false
+          },
+          "maxItems": 2
+        },
+        "consequences": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "severity": {
+                "enum": [
+                  "mild",
+                  "moderate",
+                  "severe"
+                ]
+              },
+              "capacity": {
+                "enum": [
+                  2,
+                  4,
+                  6
+                ]
+              },
+              "domain": {
+                "enum": [
+                  "any",
+                  "physical",
+                  "mental"
+                ]
+              },
+              "aspect": {
+                "type": "null"
+              }
+            },
+            "required": [
+              "severity",
+              "capacity",
+              "domain",
+              "aspect"
+            ],
+            "additionalProperties": false
+          },
+          "maxItems": 5
+        },
+        "stunts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "competency": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "action": {
+                "enum": [
+                  "create_advantage"
+                ]
+              },
+              "circumstance": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "effect": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "limit": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "table_review": {
+                "const": true
+              }
+            },
+            "required": [
+              "name",
+              "competency",
+              "action",
+              "circumstance",
+              "effect",
+              "limit",
+              "table_review"
+            ],
+            "additionalProperties": false
+          },
+          "maxItems": 1
+        },
+        "extreme_option": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "assumptions": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        }
+      },
+      "required": [
+        "ruleset",
+        "native_tier",
+        "recipe",
+        "competencies",
+        "aspects",
+        "stress",
+        "consequences",
+        "stunts",
+        "extreme_option",
+        "assumptions"
+      ],
+      "additionalProperties": false
+    },
+    "scene": {
+      "type": "object",
+      "properties": {
+        "participants": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000
+          },
+          "maxItems": 1,
+          "minItems": 1
+        },
+        "stakes": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "zones": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 120
+              }
+            },
+            "required": [
+              "id",
+              "name"
+            ],
+            "additionalProperties": false
+          },
+          "maxItems": 3,
+          "minItems": 3
+        },
+        "edges": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "from": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "to": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "note": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              }
+            },
+            "required": [
+              "from",
+              "to",
+              "note"
+            ],
+            "additionalProperties": false
+          },
+          "maxItems": 2,
+          "minItems": 2
+        },
+        "aspects": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/aspect"
+          },
+          "maxItems": 3
+        },
+        "free_invokes": {
+          "const": 0
+        },
+        "obstacle": {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "enum": [
+                "passive"
+              ]
+            },
+            "task": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "difficulty": {
+              "anyOf": [
+                {
+                  "type": "null"
+                },
+                {
+                  "const": 2
+                }
+              ]
+            },
+            "assumption": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "failure": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "counterplay": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            }
+          },
+          "required": [
+            "kind",
+            "task",
+            "difficulty",
+            "assumption",
+            "failure",
+            "counterplay"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "participants",
+        "stakes",
+        "zones",
+        "edges",
+        "aspects",
+        "free_invokes",
+        "obstacle"
+      ],
+      "additionalProperties": false
+    },
+    "npc": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120
+        },
+        "location_ref": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "public": {
+          "type": "object",
+          "properties": {
+            "role": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "appearance": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "voice": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "offer": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            }
+          },
+          "required": [
+            "role",
+            "appearance",
+            "voice",
+            "offer"
+          ],
+          "additionalProperties": false
+        },
+        "gm": {
+          "type": "object",
+          "properties": {
+            "objective": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "obstacle": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "boundary": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "relationship": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "secret": {
+              "type": "object",
+              "properties": {
+                "fact": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 2000
+                },
+                "channels": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 2000
+                  },
+                  "maxItems": 3,
+                  "minItems": 3
+                },
+                "meaning": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 2000
+                }
+              },
+              "required": [
+                "fact",
+                "channels",
+                "meaning"
+              ],
+              "additionalProperties": false
+            },
+            "concession": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            }
+          },
+          "required": [
+            "objective",
+            "obstacle",
+            "boundary",
+            "relationship",
+            "secret",
+            "concession"
+          ],
+          "additionalProperties": false
+        },
+        "mechanics": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/mechanics"
+            }
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "location_ref",
+        "public",
+        "gm",
+        "mechanics"
+      ],
+      "additionalProperties": false
+    },
+    "location": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120
+        },
+        "npc_refs": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000
+          },
+          "maxItems": 1,
+          "minItems": 1
+        },
+        "mode": {
+          "enum": [
+            "place",
+            "scene"
+          ]
+        },
+        "public": {
+          "type": "object",
+          "properties": {
+            "purpose": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "sensory": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "maxItems": 2,
+              "minItems": 2
+            },
+            "features": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 2000
+                  },
+                  "interaction": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 2000
+                  }
+                },
+                "required": [
+                  "name",
+                  "interaction"
+                ],
+                "additionalProperties": false
+              },
+              "maxItems": 2,
+              "minItems": 2
+            },
+            "warning": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            }
+          },
+          "required": [
+            "purpose",
+            "sensory",
+            "features",
+            "warning"
+          ],
+          "additionalProperties": false
+        },
+        "gm": {
+          "type": "object",
+          "properties": {
+            "pressure": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "trigger": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "danger": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "counterplay": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "opportunity": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2000
+            },
+            "choices": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "maxItems": 3,
+              "minItems": 3
+            }
+          },
+          "required": [
+            "pressure",
+            "trigger",
+            "danger",
+            "counterplay",
+            "opportunity",
+            "choices"
+          ],
+          "additionalProperties": false
+        },
+        "scene": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/scene"
+            }
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "npc_refs",
+        "mode",
+        "public",
+        "gm",
+        "scene"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

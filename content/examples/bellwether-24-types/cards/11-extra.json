@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "kind": "item",
+  "title": "The Clockwork Witness",
+  "subtitle": "Extra · Player-owned recording automaton · original extra proposal",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "Permission / cost",
+      "value": "Ownership and workshop access establish permission. One stunt slot buys the recording capability below; paid slots follow normal refresh costs. It is not free additional power for Ira."
+    },
+    {
+      "label": "Aspect",
+      "value": "It Remembers Exactly What It Was Shown"
+    },
+    {
+      "label": "Capability",
+      "value": "A fist-sized brass moth records a continuous ten-minute sound-and-image sequence from its physical perch. Its owner can replay the record; appropriate Investigate actions may create advantages from it."
+    },
+    {
+      "label": "Limits / operation",
+      "value": "No autonomous skill rolls, independent turns, remote teleportation or concealed-thought recording. Moving it into a guarded position uses the owner's relevant skill and takes the owner's action when an action is required."
+    },
+    {
+      "label": "Complication / counterplay",
+      "value": "It is audible at close range and can be covered, stolen or misdirected. A truthful recording can still omit the decisive event outside its view."
+    },
+    {
+      "label": "Availability",
+      "value": "One is held as evidence in the Office vault. Acquiring it is fiction; gaining the proposed ongoing ability also needs the agreed character-resource cost."
+    }
+  ]
+}

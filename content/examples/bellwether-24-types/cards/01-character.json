@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "kind": "character",
+  "title": "Ira Venn",
+  "subtitle": "Character · Player character · municipal chronologist",
+  "tags": [
+    "GM DEMO",
+    "NOT CANON"
+  ],
+  "fields": [
+    {
+      "label": "High concept",
+      "value": "Keeper of the City's Lost Hours"
+    },
+    {
+      "label": "Trouble",
+      "value": "I Owe Tomorrow to Someone I Haven't Met"
+    },
+    {
+      "label": "Other aspects",
+      "value": "No Name Left Off the Rescue List; Nera Once Hid Me from the Collectors; Every Machine Has a Human Cost."
+    },
+    {
+      "label": "Skills",
+      "value": "+4 Lore; +3 Investigate, Rapport; +2 Notice, Will, Crafts; +1 Physique, Athletics, Empathy, Contacts. Unlisted +0."
+    },
+    {
+      "label": "Stunts · original proposals",
+      "value": "Margin Reader: +2 Investigate to create an advantage identifying alterations in a physical document. Hear the Missing Beat: +2 Notice to create an advantage identifying disrupted timing after listening to one complete machine cycle. Keeper's Courtesy: +2 Rapport to overcome a public archivist's reluctance to grant supervised access to nonrestricted records."
+    },
+    {
+      "label": "Durability / refresh",
+      "value": "Physical [1][2][3]; mental [1][2][3]. Mark at most one box per hit; consequences may also absorb harm. Empty shared consequence slots: mild 2, moderate 4, severe 6. Refresh 3; three free stunts."
+    },
+    {
+      "label": "Play now",
+      "value": "Find who forged tomorrow's collection roll without letting the hospital's borrowed-time reserve run dry. The Nera connection is a proposed backstory link; agree other PCs' phase connections together."
+    }
+  ]
+}

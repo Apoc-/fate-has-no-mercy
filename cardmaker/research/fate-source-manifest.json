@@ -1,0 +1,197 @@
+[
+  {
+    "url": "https://fate-srd.com/fate-core/creating-and-playing-opposition",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__creating-and-playing-opposition.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__creating-and-playing-opposition.html",
+    "chars": 18991,
+    "sha256": "592f0ea16768b1b6fe3e9565ae2ebd8e00fa6edf910b540cdc6b8855c90b9682",
+    "error": null,
+    "ledger_output": "[1] https://fate-srd.com/fate-core/creating-and-playing-opposition"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/setting-scene",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__setting-scene.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__setting-scene.html",
+    "chars": 5707,
+    "sha256": "484783f5297250d5f2d334adbc12cbee3b14e4c0561851cd243c8841846584fe",
+    "error": null,
+    "ledger_output": "[2] https://fate-srd.com/fate-core/setting-scene"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/making-good-aspect",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__making-good-aspect.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__making-good-aspect.html",
+    "chars": 11505,
+    "sha256": "0d31c619e006e93f16417a8b9b7ac4cf8a2dd0d3c3f6a79a41c814398344325f",
+    "error": null,
+    "ledger_output": "[3] https://fate-srd.com/fate-core/making-good-aspect"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/faces-places",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__faces-places.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__faces-places.html",
+    "chars": 2537,
+    "sha256": "775624972c5b6927082fa1bd1082bd958744da0121ec62a4026b7b7ceaf9a6f9",
+    "error": null,
+    "ledger_output": "[4] https://fate-srd.com/fate-core/faces-places"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/extras",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__extras.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__extras.html",
+    "chars": 1895,
+    "sha256": "c4f655dc3c9aa390abeb2285e3a73ccc959d669072b63dc6c413f49222d77f45",
+    "error": null,
+    "ledger_output": "[5] https://fate-srd.com/fate-core/extras"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/establish-opposition",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__establish-opposition.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__establish-opposition.html",
+    "chars": 4352,
+    "sha256": "8bb40efd383ade5ae052779b862fd6ab89fe582dd402172d50fb85adffe40950",
+    "error": null,
+    "ledger_output": "[6] https://fate-srd.com/fate-core/establish-opposition"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/skills-stunts",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__skills-stunts.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__skills-stunts.html",
+    "chars": 4600,
+    "sha256": "09f916d6efd24f05931a6b6bb7589377f9a456d32624a68e10ce2706085f8469",
+    "error": null,
+    "ledger_output": "[7] https://fate-srd.com/fate-core/skills-stunts"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/stress-consequences",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__stress-consequences.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__stress-consequences.html",
+    "chars": 3217,
+    "sha256": "c0d5003d8386f1c7abeb72a91472464699e8efc8c951812120c71bc6efa40820",
+    "error": null,
+    "ledger_output": "[8] https://fate-srd.com/fate-core/stress-consequences"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/actions-outcomes",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__actions-outcomes.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__actions-outcomes.html",
+    "chars": 6390,
+    "sha256": "a30df19600ff2f08634059eadad9439a5a07f588d3c02baad7d51e534b0b104c",
+    "error": null,
+    "ledger_output": "[9] https://fate-srd.com/fate-core/actions-outcomes"
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/being-game-master",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__being-game-master.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__being-game-master.html",
+    "chars": 9386,
+    "sha256": "4a7ac16bc04f78f0c02a422aa958aceccfa6d11271b7d9a4d7d7c8c79dead297",
+    "error": null,
+    "ledger_output": "[10] https://fate-srd.com/fate-condensed/being-game-master"
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/getting-started",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__getting-started.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__getting-started.html",
+    "chars": 18051,
+    "sha256": "51fec7880f0d759ba93d6b137176e4e67b5de66d97b0688e6c3a73bef1d7ebed",
+    "error": null,
+    "ledger_output": "[11] https://fate-srd.com/fate-condensed/getting-started"
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__challenges-conflicts-and-contests.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__challenges-conflicts-and-contests.html",
+    "chars": 24972,
+    "sha256": "3d39f6a4b29dd0e147c00515ed40a8158346919bab0817ff400f11678c16499d",
+    "error": null,
+    "ledger_output": "[12] https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests"
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/aspects-and-fate-points",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__aspects-and-fate-points.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__aspects-and-fate-points.html",
+    "chars": 13251,
+    "sha256": "12f6c531de5d724039890c7ff30c9484b0e13e3d3a5e56b19653b4c25295a78a",
+    "error": null,
+    "ledger_output": "[13] https://fate-srd.com/fate-condensed/aspects-and-fate-points"
+  },
+  {
+    "url": "https://fate-srd.com/fate-condensed/optional-rules",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__optional-rules.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-condensed__optional-rules.html",
+    "chars": 30354,
+    "sha256": "134510ef6389188929e79937112f5619cdb8e494238f255cd2f132867aaf72e3",
+    "error": null,
+    "ledger_output": "[14] https://fate-srd.com/fate-condensed/optional-rules"
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/being-gamemaster",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__being-gamemaster.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__being-gamemaster.html",
+    "chars": 7386,
+    "sha256": "40d260b563f918f9fa4b70c5362c55e3b323433340247342402af01bb1aed17a",
+    "error": null,
+    "ledger_output": "[15] https://fate-srd.com/fate-accelerated/being-gamemaster"
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/who-do-you-want-be",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__who-do-you-want-be.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__who-do-you-want-be.html",
+    "chars": 6720,
+    "sha256": "eedd8e6c26ca8f7253f9d5b9c7a9007b47bb56de72f00ba213f32b99705c44f1",
+    "error": null,
+    "ledger_output": "[16] https://fate-srd.com/fate-accelerated/who-do-you-want-be"
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/ouch-damage-stress-and-consequences",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__ouch-damage-stress-and-consequences.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__ouch-damage-stress-and-consequences.html",
+    "chars": 5630,
+    "sha256": "2f954b13c86be19653c507c4c9afb0537fc9f7ebdba8c3318c9ded559dbe7736",
+    "error": null,
+    "ledger_output": "[17] https://fate-srd.com/fate-accelerated/ouch-damage-stress-and-consequences"
+  },
+  {
+    "url": "https://fate-srd.com/fate-accelerated/stunts",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__stunts.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-accelerated__stunts.html",
+    "chars": 2853,
+    "sha256": "8b2ce110751794b882ecab6bf9ce834a1f956dbb7e72c68bd16f90b3932226fe",
+    "error": null,
+    "ledger_output": "[18] https://fate-srd.com/fate-accelerated/stunts"
+  },
+  {
+    "url": "https://fate-srd.com/fate-system-toolkit/bronze-rule",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-system-toolkit__bronze-rule.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-system-toolkit__bronze-rule.html",
+    "chars": 1513,
+    "sha256": "f6cd6f08f746cd12b2205068ed082859159437bf481841340a6fe8347beb5e33",
+    "error": null,
+    "ledger_output": "[19] https://fate-srd.com/fate-system-toolkit/bronze-rule"
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/building-stunts",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__building-stunts.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__building-stunts.html",
+    "chars": 14837,
+    "sha256": "abbf944d5a02701a51d02fbb63bc0d4537cde116305e26c1dc692f1fb36a371f",
+    "error": null
+  },
+  {
+    "url": "https://fate-srd.com/fate-core/resolving-attacks",
+    "path": "/opt/data/cache/scratch/card-research-fate/fate-core__resolving-attacks.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/fate-core__resolving-attacks.html",
+    "chars": 12944,
+    "sha256": "e6819bdc547c5a9a8c1796e754f48f5d4b2489fea110ae38ff5f3e86242b2238",
+    "error": null
+  },
+  {
+    "url": "https://fate-srd.com/official-licensing-fate",
+    "path": "/opt/data/cache/scratch/card-research-fate/official-licensing-fate.txt",
+    "html_path": "/opt/data/cache/scratch/card-research-fate/official-licensing-fate.html",
+    "chars": 1725,
+    "sha256": "edcb085ebc0e1f8599a207e37f785238096646d8b0b4bbfb19fac88e6a04840f",
+    "error": null
+  }
+]
